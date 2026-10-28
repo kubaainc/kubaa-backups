@@ -1,0 +1,4863 @@
+{
+ "clients": {
+  "-Oy2v9-syodBjAt-v5kl": {
+   "address": "Veilchenstraße 20\n76131 Karlsruhe\nDeutschland",
+   "email": "info@kb-fit.de",
+   "name": "Kerstin Böser",
+   "status": "aktiv"
+  },
+  "-Oy2vCJ3Wv3Ryp39v94K": {
+   "name": "Karin Heiss",
+   "status": "beendet"
+  },
+  "-Oy2vCvNEuJsgvY1rwgD": {
+   "name": "Kim Moor",
+   "status": "beendet"
+  },
+  "-Oy2vDXBT3MxsUQ35Ek7": {
+   "name": "Christine Stierle",
+   "status": "beendet"
+  },
+  "-Oy2vE-7KIspnMbrj1Gs": {
+   "name": "Steffanie Weibo",
+   "status": "beendet"
+  },
+  "-Oy2wXiS63-dfKXtJsW3": {
+   "name": "Artbrains.de (Mia Bailey)",
+   "status": "aktiv"
+  },
+  "-OyhyovumfU3A6Qwz_Sz": {
+   "name": "Katja Schwahn",
+   "status": "beendet"
+  },
+  "-OyhyrS5Km7MWv-hwG9X": {
+   "address": "",
+   "email": "",
+   "name": "Kerstin Böser (PODCAST)",
+   "status": "offen"
+  },
+  "-Oyhz9pmlhcaGdD-02Oh": {
+   "address": "Gutenbergstraße 2\n76135 Karlsruhe\nDeutschland",
+   "email": "info@miabailey.net",
+   "name": "Mia Bailey",
+   "status": "offen"
+  },
+  "-OyhzD6EOqJl7uVTsiwd": {
+   "name": "Förderverein Graben-Neudorf",
+   "status": "offen"
+  },
+  "-OyhzFRfpdW9l5P6lSaP": {
+   "address": "",
+   "email": "",
+   "name": "Das Fest (David Horn VT)",
+   "status": "beendet"
+  },
+  "-OyhzFwyY3Lf2iJZc0f3": {
+   "address": "",
+   "email": "",
+   "name": "Alex Media Tec & Design",
+   "status": "beendet"
+  },
+  "-OyhzGNanyjDMTsrLIY4": {
+   "name": "Stubentiger (Daria Levendera)",
+   "status": "beendet"
+  },
+  "-OyhzGvb3aQGeJN3Kx6y": {
+   "name": "Sven Ripka",
+   "status": "beendet"
+  },
+  "-OyhzHaC_GeBt-73gEtV": {
+   "name": "Ursel Hay",
+   "status": "offen"
+  },
+  "-P--HA1R-AMDnElzrSwx": {
+   "address": "pro familia Karlsruhe\nLeopoldstraße 5\n76133 Karlsruhe\nDeutschland",
+   "email": "jasmin.nyhuis@profamilia.de",
+   "name": "Jasmin Nyhuis",
+   "status": "offen"
+  },
+  "-P-Er2vCiHLa0dHuNaqb": {
+   "address": "Werderstr. 49\n76448 Durmersheim\nDeutschland",
+   "email": "sandra.hoesl@web.de",
+   "name": "Sandra-Hösl.de",
+   "status": "aktiv"
+  },
+  "-P-ErHBTPeIavlpQVthG": {
+   "address": "Kriegsstraße 208\n76135 Karlsruhe",
+   "email": "info.vadderkram@gmail.com",
+   "name": "Vadderkram GbR Kai Schlattmann",
+   "status": "offen"
+  },
+  "-P14wyJjX8tjaqQTq6mS": {
+   "address": "Höhefeldstr.48\n76356 Weingarten",
+   "email": "christina.egerter@posteo.de",
+   "name": "Christina Egerter",
+   "status": "beendet"
+  },
+  "-P15PITUNRHb0g9P3vXU": {
+   "address": "Nelkenstr. 15\n76135 Karlsruhe",
+   "email": "kontakt@susannejulianakratt.de",
+   "name": "Susanne Kratt",
+   "status": "beendet"
+  },
+  "-P3p403qx4CcHSOCXQ0S": {
+   "address": "",
+   "email": "",
+   "name": "Claudia Huber",
+   "status": "offen"
+  },
+  "-P3p4IlhtUgjiRVTPi-l": {
+   "name": "Claudia Dewald",
+   "status": "offen"
+  }
+ },
+ "euerEntries": {
+  "-P-3bAmNcJAjeItE212G": {
+   "amt": 264,
+   "date": "2026-01",
+   "desc": "Claude Lizenz",
+   "recurring": true,
+   "recurringInterval": "yearly",
+   "type": "expense",
+   "y": 2026
+  },
+  "-P14Y2NdJEIsf6AvUtQG": {
+   "amt": 41.3,
+   "date": "2026-03",
+   "desc": "Themify Lizenz",
+   "type": "expense",
+   "y": 2026
+  }
+ },
+ "invoices": {
+  "-OrhX6PlSRo_gIyrY2nO": {
+   "amt": 50,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2023-11",
+   "desc": "Webseite Anpassungen Oktober (1.5h + 1.0h)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 2.5,
+   "nr": "202311001",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2023
+  },
+  "-OrhX6PlSRo_gIyrY2nP": {
+   "amt": 123.75,
+   "cat": "Webseite",
+   "client": "Stubentiger (Daria Levendera)",
+   "date": "2023-11",
+   "desc": "Webseite stubentiger-karlsruhe.de Oktober (8.25h × €15)",
+   "group": "Stubentiger",
+   "h": 8.25,
+   "nr": "202311002",
+   "paid": true,
+   "produkt": "Archiv",
+   "status": "paid",
+   "warn": "⚠ Mahnung verschickt (15.12.2023) – möglicherweise nicht bezahlt",
+   "y": 2023
+  },
+  "-OrhX6PlSRo_gIyrY2nQ": {
+   "amt": 90,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2024-03",
+   "desc": "Webseite Anpassungen Jan/Feb (Fragen 11./12.01, Vor-Ort 14.01)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 4.5,
+   "nr": "2024030324",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2024
+  },
+  "-OrhX6PlSRo_gIyrY2nR": {
+   "amt": 20,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2024-03",
+   "desc": "Webseite März (Affiliate-Link, Signal-Nachricht)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 1,
+   "nr": "20240330",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2024
+  },
+  "-OrhX6PlSRo_gIyrY2nS": {
+   "amt": 80,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2024-07",
+   "desc": "Webseite Anpassungen Mai + Juni (4.0h × €20)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 4,
+   "nr": "20240704",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2024
+  },
+  "-OrhX6PmO8lN2nV1ghMP": {
+   "amt": 50,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2024-09",
+   "desc": "Webseite Jul/Aug (04./05. Aug 2h, 11. Aug 0.5h)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 2.5,
+   "nr": "20240921",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2024
+  },
+  "-OrhX6PmO8lN2nV1ghMQ": {
+   "amt": 70,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2024-09",
+   "desc": "Webseite Aug/Sep (10. Aug 1h, 21./29. Aug 2.5h)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 3.5,
+   "nr": "20241001",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2024
+  },
+  "-OrhX6PmO8lN2nV1ghMR": {
+   "amt": 80,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2025-01",
+   "desc": "Webseite Nov–Jan (11./26.Nov 2h + 01.Jan 2h)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 4,
+   "nr": "20250101",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMS": {
+   "amt": 587,
+   "cat": "Live-Streaming",
+   "client": "Förderverein Graben-Neudorf",
+   "date": "2025-01",
+   "desc": "Videotechnik/Live-Stream U14 Wohlfeil Cup 2025 (05.01.2025)",
+   "group": "Förderverein Graben-Neudorf",
+   "h": 15,
+   "nr": "20250106",
+   "paid": true,
+   "produkt": "Live-Streaming",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMT": {
+   "amt": 300,
+   "cat": "Podcast",
+   "client": "Vadderkram GbR Kai Schlattmann",
+   "date": "2025-05",
+   "desc": "Podcast-Editing Elternsprechstunde Ep. 12–16 (5 × 2h × €30)",
+   "group": "Vadderkram",
+   "h": 10,
+   "nr": "2025-2705",
+   "paid": true,
+   "produkt": "Ichbindannmalvadder",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMU": {
+   "amt": 80,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2025-05",
+   "desc": "Webseite Feb–Mai (4. März, 1. April, 31. Mai)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 4,
+   "nr": "2025-3005",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMV": {
+   "amt": 100,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2025-07",
+   "desc": "Webseite Jun/Jul (9.Jun 3h, 11.Jun 1h, 15.Jun 0.5h, 01.Jul 0.5h)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 5,
+   "nr": "2025-0207",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMW": {
+   "amt": 160,
+   "cat": "Kamera",
+   "client": "Alex Media Tec & Design",
+   "date": "2025-07",
+   "desc": "YouTube-Livestream KIT-Symphonieorchester 05.07.2025 (17:30–23:30)",
+   "group": "AlexMedia",
+   "h": 6,
+   "nr": "2025-001",
+   "paid": true,
+   "produkt": "Live-Streaming",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMX": {
+   "amt": 180,
+   "cat": "Podcast",
+   "client": "Vadderkram GbR Kai Schlattmann",
+   "date": "2025-07",
+   "desc": "Podcast-Editing Elternsprechstunde Ep. 17–19 (3 × 2h × €30)",
+   "group": "Vadderkram",
+   "h": 6,
+   "nr": "2025-0107",
+   "paid": true,
+   "produkt": "Ichbindannmalvadder",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMY": {
+   "amt": 400,
+   "cat": "Kamera",
+   "client": "Das Fest (David Horn VT)",
+   "date": "2025-09",
+   "desc": "Kameramann Das Fest 2025 (25.07, 10:30–23:30) – Rechnung korrigiert",
+   "group": "DavidHorn",
+   "h": 13,
+   "nr": "2025-002",
+   "paid": true,
+   "produkt": "Live-Streaming",
+   "status": "paid",
+   "warn": "ℹ Originalrechnung €450, korrigiert auf €400",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMZ": {
+   "amt": 250,
+   "cat": "Podcast",
+   "client": "Vadderkram GbR Kai Schlattmann",
+   "date": "2025-09",
+   "desc": "Podcast Ich bin dann mal Vadder: Vollblutvater (4h), Heikevomheede (5h), Glückskind (1h)",
+   "group": "Vadderkram",
+   "h": 10,
+   "nr": "2025-003",
+   "paid": true,
+   "produkt": "Ichbindannmalvadder",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghM_": {
+   "amt": 90,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2025-09",
+   "desc": "Webseite August (01./04./26./29.Aug)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 4.5,
+   "nr": "2025-004",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMa": {
+   "amt": 100,
+   "cat": "Podcast",
+   "client": "Vadderkram GbR Kai Schlattmann",
+   "date": "2025-09",
+   "desc": "Podcast Ich bin dann mal Vadder: Kids 1 (4h × €25)",
+   "group": "Vadderkram",
+   "h": 4,
+   "nr": "2025-005",
+   "paid": true,
+   "produkt": "Ichbindannmalvadder",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMb": {
+   "amt": 60,
+   "cat": "Webseite",
+   "client": "Karin Heiss",
+   "date": "2025-11",
+   "desc": "Webseite Sep–Nov (16.Sep, 01.Okt, 07.Nov)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 3,
+   "nr": "2025-007",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "ℹ Urspr. Nr. 2025-004 (doppelt) → korrigiert auf 2025-007 am 07.05.2026",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMc": {
+   "amt": 1250,
+   "cat": "Webseite",
+   "client": "Mia Bailey",
+   "date": "2025-12",
+   "desc": "Website artbrains.de – Startseite, Impressum, Datenschutz, Kontakt (25h × €50)",
+   "group": "Artbrains",
+   "h": 25,
+   "nr": "2025-006",
+   "paid": true,
+   "produkt": "Artbrains.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2025
+  },
+  "-OrhX6PmO8lN2nV1ghMd": {
+   "amt": 650,
+   "cat": "Sonstiges",
+   "client": "Förderverein Graben-Neudorf",
+   "costMaterial": 0,
+   "costSub": 0,
+   "costTravel": 150,
+   "date": "2026-01",
+   "desc": "Videotechnik/Live-Stream U14 Wohlfeil Cup 2026 (04.01.2026)",
+   "group": "Förderverein Graben-Neudorf",
+   "h": 15,
+   "nr": "2026-007",
+   "paid": true,
+   "produkt": "Live-Streaming",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OrhX6PmO8lN2nV1ghMe": {
+   "amt": 1200,
+   "cat": "Live-Streaming",
+   "client": "Kerstin Böser",
+   "date": "2026-02",
+   "desc": "Komplett-Redesign hebammenpraxis-rundum.info (~50 Std. Pauschale)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 50,
+   "nr": "2026-008",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OrhX6PmO8lN2nV1ghMf": {
+   "amt": 200,
+   "cat": "Live-Streaming",
+   "client": "Kerstin Böser",
+   "date": "2026-02",
+   "desc": "Logo als Vektordatei für Web + Print",
+   "group": "Rundum/Wechselzeiten",
+   "h": 3,
+   "nr": "2026-009",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OrhX6PmO8lN2nV1ghMg": {
+   "amt": 600,
+   "cat": "Live-Streaming",
+   "client": "Kerstin Böser",
+   "date": "2026-03",
+   "desc": "Webseite-Anpassung & Live-Umstellung (Pauschale)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 12,
+   "nr": "2026-010",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OrhX6PmO8lN2nV1ghMh": {
+   "amt": 250,
+   "cat": "Live-Streaming",
+   "client": "Kerstin Böser",
+   "date": "2026-03",
+   "desc": "Plugin-Anpassung (€200) + 1h Texte/Emails/Datenschutz (€50)",
+   "group": "Rundum/Wechselzeiten",
+   "h": 2,
+   "nr": "2026-011",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OrhX6PmO8lN2nV1ghMi": {
+   "amt": 300,
+   "cat": "Webseite",
+   "client": "Kerstin Böser",
+   "date": "2026-04",
+   "desc": "Kursplan-Seite, Bilder, Excel-Listen (6h × €50)",
+   "group": "Kerstin Böser",
+   "h": 6,
+   "nr": "2026-014",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "ℹ Urspr. Nr. 2026-011 (doppelt) → korrigiert auf 2026-014 am 07.05.2026",
+   "y": 2026
+  },
+  "-OrhX6PmO8lN2nV1ghMj": {
+   "amt": 750,
+   "cat": "Webseite",
+   "client": "Mia Bailey",
+   "date": "2026-04",
+   "desc": "Kursseiten artbrains.de – 6 Unterseiten (15h × €50)",
+   "group": "Artbrains",
+   "h": 15,
+   "nr": "2026-012",
+   "paid": true,
+   "produkt": "Artbrains.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OrhX6PmO8lN2nV1ghMk": {
+   "amt": 240,
+   "cat": "Podcast",
+   "client": "Vadderkram GbR Kai Schlattmann",
+   "date": "2026-04",
+   "desc": "Podcast-Bearbeitung Elternsprechstunde 2026 Ep. 1–4 (8h × €30)",
+   "group": "Vadderkram",
+   "h": 8,
+   "nr": "2026-013",
+   "paid": true,
+   "produkt": "Ichbindannmalvadder",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-Orh_x71xuykKsqtquOi": {
+   "amt": 1500,
+   "cat": "Webseite",
+   "client": "Sandra-Hösl.de",
+   "date": "2026-05",
+   "desc": "Webseite mit 6 Unterseiten sowie einer Angebotsseite mit ebenfalls sechs Unterseiten, pauschal",
+   "group": "Sandra Hösl (Sandra-Hösl.de)",
+   "h": 40,
+   "nr": "2026-017",
+   "paid": true,
+   "produkt": "Sandra-Hoesl.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OrhaKPQcj0MfrFQynHh": {
+   "amt": 2000,
+   "cat": "Webseite",
+   "client": "Ursel Hay",
+   "date": "2026-12",
+   "desc": "Neubau Webseite",
+   "group": "Ursel Hay",
+   "h": 1,
+   "issuedDate": "2026-05-21",
+   "nr": "Offen",
+   "paid": false,
+   "positions": [
+    {
+     "label": "Webentwicklung & -anpassung",
+     "qty": 1,
+     "rate": 2000
+    }
+   ],
+   "produkt": "Fuenf.de",
+   "status": "planned",
+   "warn": "",
+   "y": 2026
+  },
+  "-Os66Nd4RjWkns29NvxL": {
+   "amt": 100,
+   "cat": "Webseite",
+   "client": "Steffanie Weibo",
+   "date": "2026-05",
+   "desc": "Eigene Buttons für Kurse",
+   "group": "Steffanie Weibo (Wechselzeiten)",
+   "h": 2,
+   "issuedDate": "2026-05-21",
+   "nr": "2026-015",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "steweibo@gmail.com",
+   "y": 2026
+  },
+  "-OsR-be222oSf-_xPtDi": {
+   "amt": 100,
+   "cat": "Live-Streaming",
+   "client": "Kerstin Böser",
+   "date": "2026-05",
+   "desc": "Neue Angebote Eltern und Kindsein & Events und Workshops (Vater werden), und unter Frauengesundheit (Zyklus verstehen). Sowie Bei der Anmeldungsseite hinterlegt + Table + Forms angelegt.",
+   "group": "Wechselzeiten (Kerstin Böser)",
+   "h": 2,
+   "issuedDate": "2026-05-21",
+   "nr": "2026-016",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OuciyExjhhJMRL8XUEz": {
+   "amt": 100,
+   "cat": "Live-Streaming",
+   "client": "Christine Stierle",
+   "date": "2026-06",
+   "desc": "Rundum Webseite persönliche Buttons für Kurs Mehrgebärende",
+   "group": "Christine Stierle",
+   "h": 2,
+   "issuedDate": "2026-06-08",
+   "nr": "2026-019",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "stierlechristine@gmail.com Blumenstraße 4 ,75045 Walzbachtal",
+   "y": 2026
+  },
+  "-Ov95rCuuGeCtnReJXan": {
+   "amt": 100,
+   "cat": "Live-Streaming",
+   "client": "Kerstin Böser",
+   "date": "2026-06",
+   "desc": "Neuer Kurs \"Hatha Yoga\" bei Frauengesundheit & Beckenboden, Neues Formular \"Anmeldung Hatha Yoga\" sowie Kurs ergänzt unter Anmeldungen",
+   "group": "Wechselzeiten.de (Kerstin Böser)",
+   "h": 2,
+   "issuedDate": "2026-06-15",
+   "nr": "2026-020",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OwSgmVjPCt9iwlk9V2S": {
+   "amt": 150,
+   "cat": "Live-Streaming",
+   "client": "Kim Moor",
+   "date": "2026-07",
+   "desc": "Angebot GFK, Anmeldeformular, Kurstabelle, Portrait auf Startseite, Kurs unter anmeldungsseite angelegt.",
+   "group": "Kim Moor",
+   "h": 3,
+   "issuedDate": "2026-07-09",
+   "nr": "2026-021",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OwShQHtQmxWJwxAQFum": {
+   "amt": 150,
+   "cat": "Webseite",
+   "client": "Katja Schwahn",
+   "date": "2026-07",
+   "desc": "Angebot erstellt, Anmeldeformular, Kurstabelle, Portrait auf Startseite, Kurs unter Anmeldungsseite angelegt.",
+   "group": "Katja Hebamme",
+   "h": 3,
+   "issuedDate": "2026-07-24",
+   "nr": "2026-022",
+   "paid": true,
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-OwSigWc9Xa5qXwp3oIL": {
+   "amt": 2000,
+   "cat": "Webseite",
+   "client": "Sven Ripka",
+   "date": "2026-09",
+   "desc": "Neue Webseite für Sven, warte auf Rückmeldung, bisherige Seite: https://www.mietstudio-gölshausen.de/",
+   "group": "Sven Ripka",
+   "h": 50,
+   "nr": "Offen",
+   "paid": false,
+   "positions": [
+    {
+     "label": "Webentwicklung & -anpassung",
+     "qty": 50,
+     "rate": 40
+    }
+   ],
+   "produkt": "Archiv",
+   "status": "vorgemerkt",
+   "warn": "",
+   "y": 2026
+  },
+  "-Owc5QjxQL9VLOVOhAwF": {
+   "amt": 150,
+   "cat": "Webseite",
+   "client": "Sandra-Hösl.de",
+   "date": "2026-07",
+   "desc": "Anpassungen & Ergänzung FAQ, Optimierung Wilkommenstext mit Ortsangaben",
+   "group": "Sandra-Hösl.de (Sandra Hösl)",
+   "h": 3,
+   "issuedDate": "2026-07-24",
+   "nr": "2026-023",
+   "paid": true,
+   "produkt": "Sandra-Hoesl.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-Ozz_N0rmpHqlw9BJK_v": {
+   "amt": 2400,
+   "cat": "Sonstiges",
+   "client": "Jasmin Nyhuis",
+   "costMaterial": 1167.4,
+   "costSub": 512,
+   "costTravel": 50,
+   "date": "2026-11",
+   "desc": "Beratung  - Akustikpanele und Trennwand",
+   "group": "Jasmin Nyhuis",
+   "h": 43,
+   "issuedDate": "2026-10-27",
+   "nr": "Kostenvoranschlag",
+   "paid": false,
+   "positions": [
+    {
+     "exps": [
+      {
+       "amt": 797.04,
+       "qty": 18,
+       "rate": 44.28,
+       "title": "Akustikpanele",
+       "type": "Material"
+      }
+     ],
+     "label": "Akustikpanele",
+     "qty": 18,
+     "rate": 50
+    },
+    {
+     "exps": [
+      {
+       "amt": 75.72,
+       "qty": 3,
+       "rate": 25.24,
+       "title": "White Noise Gerät",
+       "type": "Material"
+      },
+      {
+       "amt": 14.940000000000001,
+       "qty": 3,
+       "rate": 4.98,
+       "title": "Netzteile",
+       "type": "Material"
+      }
+     ],
+     "label": "White Noise Gerät",
+     "qty": 3,
+     "rate": 50
+    },
+    {
+     "exps": [
+      {
+       "amt": 149.75,
+       "qty": 5,
+       "rate": 29.95,
+       "title": "Schallschutzvorhänge",
+       "type": "Material"
+      },
+      {
+       "amt": 49.95,
+       "qty": 5,
+       "rate": 9.99,
+       "title": "Gardienenstange",
+       "type": "Material"
+      }
+     ],
+     "label": "Schallschutzvorhänge",
+     "qty": 5,
+     "rate": 100
+    },
+    {
+     "exps": [
+      {
+       "amt": 50,
+       "qty": 1,
+       "rate": 50,
+       "title": "Fahrtkosten",
+       "type": "Fahrtkosten"
+      }
+     ],
+     "label": "Lieferung (oder Stadtmobil)",
+     "qty": 1,
+     "rate": 50
+    },
+    {
+     "exps": [
+      {
+       "amt": 30,
+       "qty": 3,
+       "rate": 10,
+       "title": "Winkel & Schrauben",
+       "type": "Material"
+      },
+      {
+       "amt": 50,
+       "qty": 1,
+       "rate": 50,
+       "title": "Sonstiges",
+       "type": "Material"
+      },
+      {
+       "amt": 256,
+       "qty": 1,
+       "rate": 256,
+       "title": "Helfer Montage 1",
+       "type": "Fremdleistung"
+      },
+      {
+       "amt": 256,
+       "qty": 1,
+       "rate": 256,
+       "title": "Helfer Montage 2",
+       "type": "Fremdleistung"
+      }
+     ],
+     "label": "Montage",
+     "qty": 16,
+     "rate": 50
+    }
+   ],
+   "produkt": "pro familia",
+   "status": "wartet_kunde",
+   "warn": "White Noise: 75,71€ Amazon (Trade Republic). Fehlend: Winkel, Schrauben, Netzteile, Panele, Vorhänge. Annabell (Sa) und Papa (So) können jew. losen Beleg über 256€ stellen (steuerfrei) = 512€",
+   "y": 2026
+  },
+  "-P0J5Wz_kYGt0dIZ5WSR": {
+   "amt": 200,
+   "cat": "Live-Streaming",
+   "client": "Förderverein Graben-Neudorf",
+   "date": "2027-01",
+   "desc": "Programmierung Vorbereitung und Umsetzung Webseite",
+   "group": "Förderverein Graben-Neudorf",
+   "h": 2,
+   "nr": "Offen",
+   "paid": false,
+   "positions": [
+    {
+     "label": "Programmierung",
+     "qty": 1,
+     "rate": 100
+    },
+    {
+     "label": "Webseite, Timer, Live Spielstand Durchführung",
+     "qty": 1,
+     "rate": 100
+    }
+   ],
+   "produkt": "Live-Streaming",
+   "status": "planned",
+   "warn": "Januar 2027",
+   "y": 2027
+  },
+  "-P0O_yUDTGfRLJTTq0XH": {
+   "amt": 100,
+   "cat": "Webseite",
+   "client": "Christina Egerter",
+   "date": "2026-09",
+   "desc": "Aufnahme Angebot auf Wechselzeiten (Rundum-Hebamme.info).\nProgrammierung Vielfalt Körper zu Frauengesundheit und Anmeldung.",
+   "group": "Christina Egerter",
+   "h": 2,
+   "issuedDate": "2026-09-09",
+   "nr": "2026-024",
+   "paid": true,
+   "positions": [
+    {
+     "label": "Programmierung zwei Seiten",
+     "qty": 2,
+     "rate": 50
+    }
+   ],
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-P0OaAC7_xKzpYQNOpg_": {
+   "amt": 100,
+   "cat": "Webseite",
+   "client": "Claudia Huber",
+   "date": "2026-09",
+   "desc": "Wechselzeiten",
+   "group": "Claudia",
+   "h": 1,
+   "nr": "Offen",
+   "paid": false,
+   "positions": [
+    {
+     "label": "Angebot auf Webseite",
+     "qty": 1,
+     "rate": 100
+    }
+   ],
+   "produkt": "Wechselzeiten.de",
+   "status": "vorgemerkt",
+   "warn": "Aufnahme Wechselzeiten Seite",
+   "y": 2026
+  },
+  "-P0OaMqcDQDYeGauCWyG": {
+   "amt": 400,
+   "cat": "Webseite",
+   "client": "Claudia Huber",
+   "date": "2026-09",
+   "desc": "Landingpage",
+   "group": "Claudia",
+   "h": 8,
+   "nr": "Offen",
+   "paid": false,
+   "positions": [
+    {
+     "label": "Eigene landingpage",
+     "qty": 8,
+     "rate": 50
+    }
+   ],
+   "produkt": "Wechselzeiten.de",
+   "status": "planned",
+   "warn": "Claudia:\n\n\nEinfache webseite\nMassage, zu mir, Kontakt, anfrage über seite stellen \n500€ max vereinbart 400 Ziel",
+   "y": 2026
+  },
+  "-P0REuJaRK8Dgkl-UHtD": {
+   "amt": 80,
+   "cat": "Webseite",
+   "client": "Sandra-Hösl.de",
+   "date": "2026-12",
+   "desc": "Hostingkosten",
+   "group": "Sandra-Hösl.de",
+   "h": 8,
+   "nr": "2026-18",
+   "paid": false,
+   "positions": [
+    {
+     "label": "Weiterverrechnung Vercel",
+     "qty": 8,
+     "rate": 10
+    }
+   ],
+   "produkt": "Sandra-Hoesl.de",
+   "recurring": true,
+   "recurringInterval": "yearly",
+   "status": "vorgemerkt",
+   "warn": "Rechnung im Dezember stellen",
+   "y": 2026
+  },
+  "-P15OuidvAIGpz91kibe": {
+   "amt": 100,
+   "cat": "Webseite",
+   "client": "Susanne Kratt",
+   "date": "2026-09",
+   "desc": "4 neue Angebote auf der Wechselzeiten Seite",
+   "group": "Susanne Kratt",
+   "h": 2,
+   "nr": "2026-025",
+   "paid": true,
+   "positions": [
+    {
+     "label": "Programmierung, Logik, Design",
+     "qty": 2,
+     "rate": 50
+    }
+   ],
+   "produkt": "Wechselzeiten.de",
+   "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-P3kpLFVN5XwD58AUtEH": {
+   "amt": 500,
+   "cat": "Webseite",
+   "client": "Vadderkram GbR Kai Schlattmann",
+   "date": "2026-10",
+   "desc": "Webseitenaufbau",
+   "group": "Vadderkram GbR Kai Schlattmann",
+   "h": 10,
+   "nr": "Offen",
+   "paid": false,
+   "positions": [
+    {
+     "label": "Webseite",
+     "qty": 10,
+     "rate": 50
+    }
+   ],
+   "produkt": "Ichbindannmalvadder",
+   "status": "planned",
+   "warn": "",
+   "y": 2026
+  },
+  "-P3lZtvfHEYWT7W-SkKZ": {
+   "amt": 1000,
+   "cat": "Webseite",
+   "client": "Claudia Dewald",
+   "date": "2026-10",
+   "desc": "Webseite",
+   "group": "Claudia Dewald",
+   "h": 20,
+   "nr": "Offen",
+   "paid": false,
+   "positions": [
+    {
+     "label": "Webentwicklung & -Anpassung",
+     "qty": 20,
+     "rate": 50
+    }
+   ],
+   "produkt": "Claudia-Dewald.de",
+   "status": "planned",
+   "warn": "",
+   "y": 2026
+  },
+  "-P3lxWDgLnJK9BRAP1fj": {
+   "amt": 550,
+   "cat": "Webseite",
+   "client": "Mia Bailey",
+   "date": "2026-10",
+   "desc": "12.10. Seitenübersetzung manuell ohne automatische Übersetzung gebaut (0h)\n14.09. SEO komplett für alle Seiten + übergreifende Links (2h)\n25.08. Anpassung \"Über mich\" Seite (1h)\n24.08. Erstellung Seite „Der Raum“ (1,5h)\n23.08. Erstellung Seite \"Mia Bayley\" (2h)\n22.08. Ergänzung Angebote Kompaktkurse + Archivierung alter Kurse (2h)\n09.08. Google Profil einrichten. (1h)\n17.07. Kursdaten angepasst, Formulare angepasst. (1h)\n12.07. Abgestürzte Seite repariert. Problem war ein Plugin was die Seite zum abstürzen gebracht hat. (30m)",
+   "group": "Mia Bailey",
+   "h": 11,
+   "issuedDate": "2026-10-12",
+   "nr": "2026-026",
+   "paid": false,
+   "positions": [
+    {
+     "label": "Webentwicklung & -Anpassung",
+     "qty": 11,
+     "rate": 50
+    }
+   ],
+   "produkt": "Artbrains.de",
+   "status": "open",
+   "warn": "",
+   "y": 2026
+  }
+ },
+ "okxEquityHistory": {
+  "1787593264774": {
+   "eur": 42685.8144155779,
+   "ts": 1787593264774,
+   "usd": 49788.66542512644
+  },
+  "1787593273855": {
+   "eur": 42684.68957824595,
+   "ts": 1787593273855,
+   "usd": 49787.35341666777
+  },
+  "1787593641118": {
+   "eur": 42661.11070029015,
+   "ts": 1787593641118,
+   "usd": 49759.85105126338
+  },
+  "1787596222749": {
+   "eur": 42889.48382923187,
+   "ts": 1787596222749,
+   "usd": 50026.22510233031
+  },
+  "1787596753548": {
+   "eur": 42735.9882324651,
+   "ts": 1787596753548,
+   "usd": 49847.188084616486
+  },
+  "1787596826698": {
+   "eur": 42776.28914788466,
+   "ts": 1787596826698,
+   "usd": 49894.19500768033
+  },
+  "1787597628857": {
+   "eur": 42710.54417634347,
+   "ts": 1787597628857,
+   "usd": 49817.51017839302
+  },
+  "1787597649570": {
+   "eur": 42694.255367716076,
+   "ts": 1787597649570,
+   "usd": 49798.51093815298
+  },
+  "1787630345099": {
+   "eur": 43030.849055978164,
+   "ts": 1787630345099,
+   "usd": 50191.11327592106
+  },
+  "1787676160252": {
+   "eur": 42572.935988338766,
+   "ts": 1787676160252,
+   "usd": 49648.31775103939
+  },
+  "1787676174022": {
+   "eur": 42575.82181346867,
+   "ts": 1787676174022,
+   "usd": 49651.68318402392
+  },
+  "1787676963916": {
+   "eur": 42570.55264939704,
+   "ts": 1787676963916,
+   "usd": 49645.538314612466
+  },
+  "1787687312996": {
+   "eur": 42258.90531226332,
+   "ts": 1787687312996,
+   "usd": 49282.09694837645
+  },
+  "1787689479578": {
+   "eur": 42223.615053923655,
+   "ts": 1787689479578,
+   "usd": 49240.94164821007
+  },
+  "1787689716390": {
+   "eur": 42161.82503914028,
+   "ts": 1787689716390,
+   "usd": 49168.88248159195
+  },
+  "1787690257430": {
+   "eur": 42134.85953895138,
+   "ts": 1787690257430,
+   "usd": 49137.43546741231
+  },
+  "1787691695705": {
+   "eur": 41802.89992075053,
+   "ts": 1787691695705,
+   "usd": 48750.30603359868
+  },
+  "1787692065915": {
+   "eur": 41741.53936029799,
+   "ts": 1787692065915,
+   "usd": 48678.74769419817
+  },
+  "1787692785986": {
+   "eur": 41874.9350031018,
+   "ts": 1787692785986,
+   "usd": 48834.31294021131
+  },
+  "1787693997155": {
+   "eur": 41983.88865591022,
+   "ts": 1787693997155,
+   "usd": 48961.37407539472
+  },
+  "1787713665075": {
+   "eur": 42227.884377382186,
+   "ts": 1787713665075,
+   "usd": 49245.92050913968
+  },
+  "1787720130143": {
+   "eur": 42245.89614435024,
+   "ts": 1787720130143,
+   "usd": 49266.92573015457
+  },
+  "1787726393969": {
+   "eur": 42615.93456972104,
+   "ts": 1787726393969,
+   "usd": 49698.46245404732
+  },
+  "1787747168661": {
+   "eur": 42792.242265810775,
+   "ts": 1787747168661,
+   "usd": 49904.071494490636
+  },
+  "1787783021453": {
+   "eur": 43641.660918201436,
+   "ts": 1787783021453,
+   "usd": 50925.541055347836
+  },
+  "1787800065323": {
+   "eur": 43033.65634835861,
+   "ts": 1787800065323,
+   "usd": 50216.0593117129
+  },
+  "1787806561413": {
+   "eur": 42419.18603517321,
+   "ts": 1787806561413,
+   "usd": 49499.0326792924
+  },
+  "1787843375995": {
+   "eur": 45782.09151073717,
+   "ts": 1787843375995,
+   "usd": 53313.10001949038
+  },
+  "1787851432282": {
+   "eur": 46562.34903545398,
+   "ts": 1787851432282,
+   "usd": 54221.707426524896
+  },
+  "1787851457122": {
+   "eur": 46596.67381246204,
+   "ts": 1787851457122,
+   "usd": 54261.67852022969
+  },
+  "1787886465178": {
+   "eur": 44261.68168821068,
+   "ts": 1787886465178,
+   "usd": 51542.58761465715
+  },
+  "1787900228437": {
+   "eur": 44813.58323057022,
+   "ts": 1787900228437,
+   "usd": 52185.27520619771
+  },
+  "1787972864990": {
+   "eur": 41264.30872960213,
+   "ts": 1787972864990,
+   "usd": 48043.76431161398
+  },
+  "1788004215011": {
+   "eur": 41206.88622056102,
+   "ts": 1788004215011,
+   "usd": 47976.907660539786
+  },
+  "1788059264950": {
+   "eur": 43035.04390991167,
+   "ts": 1788059264950,
+   "usd": 50105.419681113606
+  },
+  "1788067514030": {
+   "eur": 42944.09713527623,
+   "ts": 1788067514030,
+   "usd": 49999.53094724147
+  },
+  "1788145665057": {
+   "eur": 38958.88142964947,
+   "ts": 1788145665057,
+   "usd": 45359.57041023817
+  },
+  "1788188588959": {
+   "eur": 35378.97301689994,
+   "ts": 1788188588959,
+   "usd": 41025.282670895256
+  },
+  "1788232065093": {
+   "eur": 36678.72483614027,
+   "ts": 1788232065093,
+   "usd": 42532.46847193231
+  },
+  "1788254636114": {
+   "eur": 34213.19081371952,
+   "ts": 1788254636114,
+   "usd": 39673.44737609092
+  },
+  "1788265893697": {
+   "eur": 34506.245630209196,
+   "ts": 1788265893697,
+   "usd": 40013.27229635678
+  },
+  "1788266135456": {
+   "eur": 41812.08082928444,
+   "ts": 1788266135456,
+   "usd": 48485.08277106629
+  },
+  "1788266795549": {
+   "eur": 41712.0550462258,
+   "ts": 1788266795549,
+   "usd": 48369.093366218454
+  },
+  "1788266999401": {
+   "eur": 41781.57851284461,
+   "ts": 1788266999401,
+   "usd": 48449.712435317335
+  },
+  "1788267116434": {
+   "eur": 41809.968737708805,
+   "ts": 1788267116434,
+   "usd": 48482.633600089066
+  },
+  "1788271620809": {
+   "eur": 42554.536146230756,
+   "ts": 1788271620809,
+   "usd": 49320.865713460385
+  },
+  "1788318871237": {
+   "eur": 40640.920358002724,
+   "ts": 1788318871237,
+   "usd": 47102.977895484204
+  },
+  "1788405271167": {
+   "eur": 40948.8925568367,
+   "ts": 1788405271167,
+   "usd": 47410.46480512753
+  },
+  "1788420797692": {
+   "eur": 40936.27344895413,
+   "ts": 1788420797692,
+   "usd": 47395.854452251486
+  },
+  "1788445565419": {
+   "eur": 42870.58871961239,
+   "ts": 1788445565419,
+   "usd": 49793.9378363831
+  },
+  "1788445765734": {
+   "eur": 42964.54381922338,
+   "ts": 1788445765734,
+   "usd": 49903.066134574634
+  },
+  "1788494143146": {
+   "eur": 38253.255959623166,
+   "ts": 1788494143146,
+   "usd": 44430.93286520067
+  },
+  "1788511504235": {
+   "eur": 44592.77025106478,
+   "ts": 1788511504235,
+   "usd": 51794.24160363406
+  },
+  "1788580543097": {
+   "eur": 41757.01114474773,
+   "ts": 1788580543097,
+   "usd": 48529.83490394186
+  },
+  "1788666943033": {
+   "eur": 44916.30050946045,
+   "ts": 1788666943033,
+   "usd": 52201.54863727913
+  },
+  "1788680390495": {
+   "eur": 44197.64934278425,
+   "ts": 1788680390495,
+   "usd": 51366.33506436736
+  },
+  "1788753343188": {
+   "eur": 43824.68367050708,
+   "ts": 1788753343188,
+   "usd": 50932.875819937566
+  },
+  "1788780579531": {
+   "eur": 44047.31762575814,
+   "ts": 1788780579531,
+   "usd": 51191.62013127951
+  },
+  "1788817887012": {
+   "eur": 43855.78713215201,
+   "ts": 1788817887012,
+   "usd": 50969.024141313756
+  },
+  "1788839743079": {
+   "eur": 43631.53274616007,
+   "ts": 1788839743079,
+   "usd": 50708.39657170758
+  },
+  "1788866857540": {
+   "eur": 43387.36517783547,
+   "ts": 1788866857540,
+   "usd": 50424.625979540084
+  },
+  "1788898412643": {
+   "eur": 43561.670075177986,
+   "ts": 1788898412643,
+   "usd": 50592.51138192396
+  },
+  "1788926143124": {
+   "eur": 43363.23141900789,
+   "ts": 1788926143124,
+   "usd": 50362.044782420926
+  },
+  "1788941708241": {
+   "eur": 45251.2543708766,
+   "ts": 1788941708241,
+   "usd": 52554.79410807591
+  },
+  "1789012543187": {
+   "eur": 37397.559380533916,
+   "ts": 1789012543187,
+   "usd": 43575.72578189032
+  },
+  "1789098943293": {
+   "eur": 32368.517927708977,
+   "ts": 1789098943293,
+   "usd": 37599.33780284009
+  },
+  "1789185343325": {
+   "eur": 29103.42435650304,
+   "ts": 1789185343325,
+   "usd": 33736.84227448014
+  },
+  "1789271743108": {
+   "eur": 28495.546395494082,
+   "ts": 1789271743108,
+   "usd": 33032.18695139926
+  },
+  "1789358143409": {
+   "eur": 26929.016431126845,
+   "ts": 1789358143409,
+   "usd": 31216.257194174814
+  },
+  "1789444543349": {
+   "eur": 26860.684341432978,
+   "ts": 1789444543349,
+   "usd": 31026.629944016007
+  },
+  "1789530943486": {
+   "eur": 24102.890437325474,
+   "ts": 1789530943486,
+   "usd": 27812.20409785661
+  },
+  "1789617343459": {
+   "eur": 27325.2306975858,
+   "ts": 1789617343459,
+   "usd": 31524.989844696232
+  },
+  "1789703743287": {
+   "eur": 34179.95755906077,
+   "ts": 1789703743287,
+   "usd": 39242.20156034532
+  },
+  "1789715824338": {
+   "eur": 34376.27780523766,
+   "ts": 1789715824338,
+   "usd": 39467.59793942326
+  },
+  "1789790143365": {
+   "eur": 39051.682897054685,
+   "ts": 1789790143365,
+   "usd": 44753.246501323265
+  },
+  "1789822080880": {
+   "eur": 39140.00479767633,
+   "ts": 1789822080880,
+   "usd": 44854.46343992245
+  },
+  "1789876543317": {
+   "eur": 37839.18392518774,
+   "ts": 1789876543317,
+   "usd": 43363.722123754
+  },
+  "1789932219618": {
+   "eur": 39694.953474489805,
+   "ts": 1789932219618,
+   "usd": 45490.43487793927
+  },
+  "1789962943653": {
+   "eur": 41648.71538863935,
+   "ts": 1789962943653,
+   "usd": 47729.446927159464
+  },
+  "1789971494237": {
+   "eur": 41548.227517046165,
+   "ts": 1789971494237,
+   "usd": 47614.287780250015
+  },
+  "1789980605470": {
+   "eur": 43305.47648782527,
+   "ts": 1789980605470,
+   "usd": 49628.095906286115
+  },
+  "1789990776898": {
+   "eur": 44084.294398977516,
+   "ts": 1789990776898,
+   "usd": 50520.62158947687
+  },
+  "1789994689185": {
+   "eur": 44645.993417528814,
+   "ts": 1789994689185,
+   "usd": 51164.32892221959
+  },
+  "1789996768076": {
+   "eur": 44708.13570304847,
+   "ts": 1789996768076,
+   "usd": 51235.54400991115
+  },
+  "1789999316756": {
+   "eur": 44377.175811628644,
+   "ts": 1789999316756,
+   "usd": 50989.49330318578
+  },
+  "1790020449456": {
+   "eur": 44305.90848942842,
+   "ts": 1790020449456,
+   "usd": 50907.6069600014
+  },
+  "1790029153914": {
+   "eur": 45002.34462870104,
+   "ts": 1790029153914,
+   "usd": 51707.81394050583
+  },
+  "1790049343257": {
+   "eur": 44854.772401787945,
+   "ts": 1790049343257,
+   "usd": 51538.253058401446
+  },
+  "1790052889395": {
+   "eur": 44249.38923167139,
+   "ts": 1790052889395,
+   "usd": 50842.66618217597
+  },
+  "1790053475463": {
+   "eur": 43965.46532331526,
+   "ts": 1790053475463,
+   "usd": 50516.436854622734
+  },
+  "1790055578124": {
+   "eur": 44194.848949618354,
+   "ts": 1790055578124,
+   "usd": 50779.99925270976
+  },
+  "1790067516705": {
+   "eur": 45317.83922054903,
+   "ts": 1790067516705,
+   "usd": 52070.31806754875
+  },
+  "1790067675448": {
+   "eur": 45199.92329314879,
+   "ts": 1790067675448,
+   "usd": 51934.83235263902
+  },
+  "1790069062448": {
+   "eur": 44520.938811987166,
+   "ts": 1790069062448,
+   "usd": 51154.677373824765
+  },
+  "1790094358657": {
+   "eur": 43796.893545051156,
+   "ts": 1790094358657,
+   "usd": 50204.49298468672
+  },
+  "1790105687924": {
+   "eur": 43838.708797418534,
+   "ts": 1790105687924,
+   "usd": 50252.425917235276
+  },
+  "1790135743612": {
+   "eur": 44331.91879761501,
+   "ts": 1790135743612,
+   "usd": 50817.79382328028
+  },
+  "1790151251216": {
+   "eur": 40430.39889208895,
+   "ts": 1790151251216,
+   "usd": 46345.47140787619
+  },
+  "1790151266420": {
+   "eur": 40463.11166622091,
+   "ts": 1790151266420,
+   "usd": 46382.97014594829
+  },
+  "1790162802093": {
+   "eur": 40261.93705125043,
+   "ts": 1790162802093,
+   "usd": 46152.36316156039
+  },
+  "1790162985409": {
+   "eur": 40136.395673816056,
+   "ts": 1790162985409,
+   "usd": 46008.45475407918
+  },
+  "1790197865792": {
+   "eur": 35648.87869630606,
+   "ts": 1790197865792,
+   "usd": 40678.8140540949
+  },
+  "1790201470793": {
+   "eur": 36578.93841395592,
+   "ts": 1790201470793,
+   "usd": 41740.102029960544
+  },
+  "1790222143432": {
+   "eur": 34958.15999698647,
+   "ts": 1790222143432,
+   "usd": 39890.63729900892
+  },
+  "1790255480411": {
+   "eur": 32832.96353767986,
+   "ts": 1790255480411,
+   "usd": 37465.58285808166
+  },
+  "1790257954577": {
+   "eur": 33248.881781420525,
+   "ts": 1790257954577,
+   "usd": 37940.185749324504
+  },
+  "1790308543355": {
+   "eur": 33972.17870674396,
+   "ts": 1790308543355,
+   "usd": 38616.15784975557
+  },
+  "1790352102865": {
+   "eur": 35251.948117819404,
+   "ts": 1790352102865,
+   "usd": 40197.897415867774
+  },
+  "1790377461796": {
+   "eur": 37195.206394883324,
+   "ts": 1790377461796,
+   "usd": 42413.80039555205
+  },
+  "1790394943531": {
+   "eur": 35487.013229229124,
+   "ts": 1790394943531,
+   "usd": 40465.94283573837
+  },
+  "1790481343185": {
+   "eur": 35746.14374023147,
+   "ts": 1790481343185,
+   "usd": 40761.43009969836
+  },
+  "1790496796728": {
+   "eur": 39945.17739985578,
+   "ts": 1790496796728,
+   "usd": 45549.60020965127
+  },
+  "1790498264435": {
+   "eur": 39853.89747695248,
+   "ts": 1790498264435,
+   "usd": 45445.513452098705
+  },
+  "1790527233781": {
+   "eur": 37667.80747681155,
+   "ts": 1790527233781,
+   "usd": 42952.70876301262
+  },
+  "1790530524641": {
+   "eur": 37666.38485548411,
+   "ts": 1790530524641,
+   "usd": 42951.08654383793
+  },
+  "1790566468896": {
+   "eur": 35336.71753078903,
+   "ts": 1790566468896,
+   "usd": 40294.560220294006
+  },
+  "1790566665029": {
+   "eur": 35878.56011418469,
+   "ts": 1790566665029,
+   "usd": 40912.424870216084
+  },
+  "1790567103741": {
+   "eur": 36411.316075816096,
+   "ts": 1790567103741,
+   "usd": 41519.92801931228
+  },
+  "1790567743214": {
+   "eur": 35539.27380226322,
+   "ts": 1790567743214,
+   "usd": 40525.53571686647
+  },
+  "1790571723356": {
+   "eur": 36353.757157600936,
+   "ts": 1790571723356,
+   "usd": 41454.29341999742
+  },
+  "1790654143595": {
+   "eur": 27653.112464797963,
+   "ts": 1790654143595,
+   "usd": 31463.678577294046
+  },
+  "1790740543528": {
+   "eur": 32746.883648718787,
+   "ts": 1790740543528,
+   "usd": 37184.057193635286
+  },
+  "1790826943393": {
+   "eur": 36938.43112731753,
+   "ts": 1790826943393,
+   "usd": 41943.5556193779
+  },
+  "1790913343343": {
+   "eur": 34960.275403286236,
+   "ts": 1790913343343,
+   "usd": 39498.22666480577
+  },
+  "1790922685635": {
+   "eur": 37486.95838401462,
+   "ts": 1790922685635,
+   "usd": 42352.88086680144
+  },
+  "1790999743355": {
+   "eur": 29911.755008629585,
+   "ts": 1790999743355,
+   "usd": 33575.892115156625
+  },
+  "1791086143357": {
+   "eur": 38667.084481314916,
+   "ts": 1791086143357,
+   "usd": 43403.73396939499
+  },
+  "1791110082311": {
+   "eur": 37500.354689957574,
+   "ts": 1791110082311,
+   "usd": 42094.08184129847
+  },
+  "1791153989758": {
+   "eur": 40887.80098955714,
+   "ts": 1791153989758,
+   "usd": 45896.48432381507
+  },
+  "1791153992934": {
+   "eur": 40883.758221362084,
+   "ts": 1791153992934,
+   "usd": 45891.94632366348
+  },
+  "1791172543311": {
+   "eur": 39563.43481259151,
+   "ts": 1791172543311,
+   "usd": 44409.8856315641
+  },
+  "1791258943310": {
+   "eur": 38280.737706937856,
+   "ts": 1791258943310,
+   "usd": 42889.660639229456
+  },
+  "1791345344013": {
+   "eur": 36826.482560311626,
+   "ts": 1791345344013,
+   "usd": 41499.77187066749
+  }
+ },
+ "okxLastSync": 1791345344013,
+ "okxOpenTrades": {
+  "3734766274050351104": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "direction": "long",
+   "entry": 0.0934761672197039,
+   "leverage": 4,
+   "markPx": 0.09022,
+   "openedAt": 1791120087519,
+   "posId": "3734766274050351104",
+   "posSize": 21397,
+   "status": "open",
+   "upl": -696.7221000000461,
+   "uplRatio": -0.1393367878274558,
+   "valueUsd": 19304.3734
+  },
+  "3771590409086656512": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "direction": "long",
+   "entry": 0.0047900648693499,
+   "leverage": 4,
+   "markPx": 0.006352,
+   "openedAt": 1790352996047,
+   "posId": "3771590409086656512",
+   "posSize": 12055,
+   "status": "open",
+   "upl": 18829.12799998695,
+   "uplRatio": 1.3043122991042777,
+   "valueUsd": 76573.36
+  },
+  "3839000577658933248": {
+   "asset": "PEPE-USD_UM_XPERP-310404",
+   "direction": "long",
+   "entry": 0.000004276,
+   "leverage": 4,
+   "markPx": 0.000004111,
+   "openedAt": 1791120555956,
+   "posId": "3839000577658933248",
+   "posSize": 4538,
+   "status": "open",
+   "upl": -748.7700000000006,
+   "uplRatio": -0.1543498596819459,
+   "valueUsd": 18655.718
+  }
+ },
+ "okxSpotOpenTrades": {
+  "ARB-USDC": {
+   "asset": "ARB-USDC",
+   "direction": "long",
+   "entry": 0.14392,
+   "markPx": 0.1861,
+   "openedAt": 1789202838613,
+   "posSize": 48.642599999999675,
+   "status": "open",
+   "upl": 2.051744867999986,
+   "valueUsd": 9.05238785999994
+  },
+  "ASTER-USDC": {
+   "asset": "ASTER-USDC",
+   "direction": "long",
+   "entry": 0.6677,
+   "markPx": 0.7109,
+   "openedAt": 1787497535898,
+   "posSize": 7.514999999999574,
+   "status": "open",
+   "upl": 0.32464799999998173,
+   "valueUsd": 5.342413499999697
+  },
+  "BNB-USDC": {
+   "asset": "BNB-USDC",
+   "direction": "long",
+   "entry": 769.2,
+   "markPx": 767.5,
+   "openedAt": 1788624422289,
+   "posSize": 0.00483299999999999,
+   "status": "open",
+   "upl": -0.008216100000000203,
+   "valueUsd": 3.7093274999999926
+  },
+  "BTC-USDC": {
+   "asset": "BTC-USDC",
+   "direction": "long",
+   "entry": 65776.70326762309,
+   "markPx": 84209.5,
+   "openedAt": 1784746307595,
+   "posSize": 0.0029066999999999934,
+   "status": "open",
+   "upl": 53.57861026199985,
+   "valueUsd": 244.77175364999945
+  },
+  "CRV-USDC": {
+   "asset": "CRV-USDC",
+   "direction": "long",
+   "entry": 0.3679,
+   "markPx": 0.3549,
+   "openedAt": 1788289626039,
+   "posSize": 1.2153150000000323,
+   "status": "open",
+   "upl": -0.015799095000000433,
+   "valueUsd": 0.43131529350001147
+  },
+  "ENA-USDC": {
+   "asset": "ENA-USDC",
+   "direction": "long",
+   "entry": 0.15934,
+   "markPx": 0.22711,
+   "openedAt": 1788290437789,
+   "posSize": 6.690000000000282,
+   "status": "open",
+   "upl": 0.4533813000000191,
+   "valueUsd": 1.519365900000064
+  },
+  "ETHFI-USDC": {
+   "asset": "ETHFI-USDC",
+   "direction": "long",
+   "entry": 0.4864,
+   "markPx": 0.7619,
+   "openedAt": 1786784260049,
+   "posSize": 10.376400000000103,
+   "status": "open",
+   "upl": 2.8586982000000285,
+   "valueUsd": 7.905779160000079
+  },
+  "GRASS-USDC": {
+   "asset": "GRASS-USDC",
+   "direction": "long",
+   "entry": 0.3586,
+   "markPx": 0.6582,
+   "openedAt": 1787521752229,
+   "posSize": 5.559999999999695,
+   "status": "open",
+   "upl": 1.6657759999999089,
+   "valueUsd": 3.6595919999997992
+  },
+  "HYPE-USDC": {
+   "asset": "HYPE-USDC",
+   "direction": "long",
+   "entry": 59.413,
+   "markPx": 90.974,
+   "openedAt": 1787060475955,
+   "posSize": 0.01689999999999925,
+   "status": "open",
+   "upl": 0.5333808999999764,
+   "valueUsd": 1.5374605999999318
+  },
+  "PEPE-USDC": {
+   "asset": "PEPE-USDC",
+   "direction": "long",
+   "entry": 0.000002556,
+   "markPx": 0.000004117,
+   "openedAt": 1786917439417,
+   "posSize": 1564366,
+   "status": "open",
+   "upl": 2.4419753259999992,
+   "valueUsd": 6.440494822
+  },
+  "PUMP-USDC": {
+   "asset": "PUMP-USDC",
+   "direction": "long",
+   "entry": 0.002782,
+   "markPx": 0.00636,
+   "openedAt": 1787060907353,
+   "posSize": 354,
+   "status": "open",
+   "upl": 1.266612,
+   "valueUsd": 2.25144
+  },
+  "UNI-USDC": {
+   "asset": "UNI-USDC",
+   "direction": "long",
+   "entry": 6.358,
+   "markPx": 8.175,
+   "openedAt": 1789202944712,
+   "posSize": 0.8821000000000367,
+   "status": "open",
+   "upl": 1.6027757000000677,
+   "valueUsd": 7.211167500000301
+  },
+  "ZEC-USDC": {
+   "asset": "ZEC-USDC",
+   "direction": "long",
+   "entry": 637.58,
+   "markPx": 1323.33,
+   "openedAt": 1787298601233,
+   "posSize": 0.00017999999999999614,
+   "status": "open",
+   "upl": 0.12343499999999732,
+   "valueUsd": 0.23819939999999487
+  }
+ },
+ "okxSpotTrades": {
+  "ARB-USDC_128914": {
+   "asset": "ARB-USDC",
+   "closedAt": 1789303167622,
+   "direction": "long",
+   "entry": 0.14394337847558045,
+   "exitPrice": 0.13716,
+   "fee": -0.033312968172,
+   "pnl": -1.6808375471720083,
+   "posSize": 242.87669999999997,
+   "status": "loss"
+  },
+  "ARB-USDC_128915": {
+   "asset": "ARB-USDC",
+   "closedAt": 1789303167622,
+   "direction": "long",
+   "entry": 0.14395,
+   "exitPrice": 0.1371,
+   "fee": -0.0073477374,
+   "pnl": -0.37446663739999975,
+   "posSize": 53.594,
+   "status": "loss"
+  },
+  "ARB-USDC_128916": {
+   "asset": "ARB-USDC",
+   "closedAt": 1789303167622,
+   "direction": "long",
+   "entry": 0.14395,
+   "exitPrice": 0.1371,
+   "fee": -0.0332438709,
+   "pnl": -1.694225020899999,
+   "posSize": 242.479,
+   "status": "loss"
+  },
+  "ARB-USDC_128917": {
+   "asset": "ARB-USDC",
+   "closedAt": 1789303167622,
+   "direction": "long",
+   "entry": 0.14400913575588617,
+   "exitPrice": 0.13709,
+   "fee": -0.715202409647,
+   "pnl": -36.81252945964709,
+   "posSize": 5217.0283,
+   "status": "loss"
+  },
+  "ARB-USDC_128918": {
+   "asset": "ARB-USDC",
+   "closedAt": 1789303167622,
+   "direction": "long",
+   "entry": 0.14403,
+   "exitPrice": 0.13703,
+   "fee": -0.002550772341,
+   "pnl": -0.1328536723409996,
+   "posSize": 18.6147,
+   "status": "loss"
+  },
+  "ARB-USDC_128919": {
+   "asset": "ARB-USDC",
+   "closedAt": 1789303167622,
+   "direction": "long",
+   "entry": 0.14403,
+   "exitPrice": 0.137,
+   "fee": -0.7147328771,
+   "pnl": -37.390441826099895,
+   "posSize": 5217.0283,
+   "status": "loss"
+  },
+  "ARB-USDC_128920": {
+   "asset": "ARB-USDC",
+   "closedAt": 1789303167622,
+   "direction": "long",
+   "entry": 0.14403,
+   "exitPrice": 0.13693,
+   "fee": -0.572172356908,
+   "pnl": -30.24005911690798,
+   "posSize": 4178.5756,
+   "status": "loss"
+  },
+  "ARB-USDC_128921": {
+   "asset": "ARB-USDC",
+   "closedAt": 1789303167622,
+   "direction": "long",
+   "entry": 0.14403,
+   "exitPrice": 0.13691,
+   "fee": -0.714263344553,
+   "pnl": -37.85950484055293,
+   "posSize": 5217.0283,
+   "status": "loss"
+  },
+  "ARB-USDC_128922": {
+   "asset": "ARB-USDC",
+   "closedAt": 1789303167622,
+   "direction": "long",
+   "entry": 0.14403,
+   "exitPrice": 0.13685,
+   "fee": -1.320582150405,
+   "pnl": -70.60651448440493,
+   "posSize": 9649.8513,
+   "status": "loss"
+  },
+  "ARB-USDC_128923": {
+   "asset": "ARB-USDC",
+   "closedAt": 1789303167622,
+   "direction": "long",
+   "entry": 0.14391605238979988,
+   "exitPrice": 0.13681,
+   "fee": -0.63538681981,
+   "pnl": -33.63803303981002,
+   "posSize": 4644.301,
+   "status": "loss"
+  },
+  "ARB-USDC_57770": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788641285446,
+   "direction": "long",
+   "entry": 0.11330065441806944,
+   "exitPrice": 0.16211,
+   "fee": -0.252719390547,
+   "pnl": 75.83800954945299,
+   "posSize": 1558.9377,
+   "status": "win"
+  },
+  "ARB-USDC_57771": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788641285446,
+   "direction": "long",
+   "entry": 0.11361156509872201,
+   "exitPrice": 0.16197,
+   "fee": -0.874203337308,
+   "pnl": 260.13157043369205,
+   "posSize": 5397.3164,
+   "status": "win"
+  },
+  "ARB-USDC_82983": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956373,
+   "direction": "long",
+   "entry": 0.11325017588328855,
+   "exitPrice": 0.16656,
+   "fee": -0.044735884032,
+   "pnl": 14.273600507968006,
+   "posSize": 268.5872,
+   "status": "win"
+  },
+  "ARB-USDC_82984": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956373,
+   "direction": "long",
+   "entry": 0.11327,
+   "exitPrice": 0.16655,
+   "fee": -0.04613131879,
+   "pnl": 14.711458985210003,
+   "posSize": 276.9818,
+   "status": "win"
+  },
+  "ARB-USDC_82985": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956373,
+   "direction": "long",
+   "entry": 0.11327000000000001,
+   "exitPrice": 0.16653,
+   "fee": -0.066560092599,
+   "pnl": 21.220838765401002,
+   "posSize": 399.6883,
+   "status": "win"
+  },
+  "ARB-USDC_82986": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956374,
+   "direction": "long",
+   "entry": 0.10603,
+   "exitPrice": 0.1665,
+   "fee": -0.06654810195,
+   "pnl": 24.102603399050004,
+   "posSize": 399.6883,
+   "status": "win"
+  },
+  "ARB-USDC_82987": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956374,
+   "direction": "long",
+   "entry": 0.10603,
+   "exitPrice": 0.16647,
+   "fee": -0.066536111301,
+   "pnl": 24.090624740699003,
+   "posSize": 399.6883,
+   "status": "win"
+  },
+  "ARB-USDC_82988": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956374,
+   "direction": "long",
+   "entry": 0.10603,
+   "exitPrice": 0.16643,
+   "fee": -0.066520123769,
+   "pnl": 24.074653196231,
+   "posSize": 399.6883,
+   "status": "win"
+  },
+  "ARB-USDC_82989": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956374,
+   "direction": "long",
+   "entry": 0.10603,
+   "exitPrice": 0.16638,
+   "fee": -0.06583190736,
+   "pnl": 23.812973292640002,
+   "posSize": 395.672,
+   "status": "win"
+  },
+  "ARB-USDC_82990": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956374,
+   "direction": "long",
+   "entry": 0.10603,
+   "exitPrice": 0.16637,
+   "fee": -0.066496142471,
+   "pnl": 24.050695879529,
+   "posSize": 399.6883,
+   "status": "win"
+  },
+  "ARB-USDC_82991": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956374,
+   "direction": "long",
+   "entry": 0.10610530816983037,
+   "exitPrice": 0.16635,
+   "fee": -0.252719402415,
+   "pnl": 91.27119113558501,
+   "posSize": 1519.2029,
+   "status": "win"
+  },
+  "ARB-USDC_82992": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956374,
+   "direction": "long",
+   "entry": 0.11173973806532714,
+   "exitPrice": 0.16627,
+   "fee": -0.315728357165,
+   "pnl": 103.23121346283499,
+   "posSize": 1898.8895,
+   "status": "win"
+  },
+  "ARB-USDC_82993": {
+   "asset": "ARB-USDC",
+   "closedAt": 1788807956374,
+   "direction": "long",
+   "entry": 0.11323,
+   "exitPrice": 0.16625,
+   "fee": -0.099497183625,
+   "pnl": 31.631875302375004,
+   "posSize": 598.4793,
+   "status": "win"
+  },
+  "ASTER-USDC_117778": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010710,
+   "direction": "long",
+   "entry": 0.6575,
+   "exitPrice": 0.7362,
+   "fee": -0.084655638,
+   "pnl": 8.965057362,
+   "posSize": 114.99,
+   "status": "win"
+  },
+  "ASTER-USDC_117779": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6677,
+   "exitPrice": 0.7361,
+   "fee": -0.0637624542,
+   "pnl": 5.861182345800001,
+   "posSize": 86.622,
+   "status": "win"
+  },
+  "ASTER-USDC_117780": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6677,
+   "exitPrice": 0.736,
+   "fee": -0.00282256,
+   "pnl": 0.25910794000000015,
+   "posSize": 3.835,
+   "status": "win"
+  },
+  "ASTER-USDC_117781": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6677,
+   "exitPrice": 0.736,
+   "fee": -0.000741888,
+   "pnl": 0.06810451200000003,
+   "posSize": 1.008,
+   "status": "win"
+  },
+  "ASTER-USDC_117782": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6677,
+   "exitPrice": 0.736,
+   "fee": -0.02431744,
+   "pnl": 2.2323145600000007,
+   "posSize": 33.04,
+   "status": "win"
+  },
+  "ASTER-USDC_117783": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6677,
+   "exitPrice": 0.736,
+   "fee": -0.015109344,
+   "pnl": 1.3870213560000004,
+   "posSize": 20.529,
+   "status": "win"
+  },
+  "ASTER-USDC_117784": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6677,
+   "exitPrice": 0.736,
+   "fee": -0.00628544,
+   "pnl": 0.5769965600000002,
+   "posSize": 8.54,
+   "status": "win"
+  },
+  "ASTER-USDC_117785": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6677,
+   "exitPrice": 0.736,
+   "fee": -0.084284512,
+   "pnl": 7.737226588000003,
+   "posSize": 114.517,
+   "status": "win"
+  },
+  "ASTER-USDC_117786": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6677108198656824,
+   "exitPrice": 0.736,
+   "fee": -2.361358112,
+   "pnl": 216.73539388800023,
+   "posSize": 3208.367,
+   "status": "win"
+  },
+  "ASTER-USDC_117787": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6670000000000001,
+   "exitPrice": 0.7359,
+   "fee": -0.0844062582,
+   "pnl": 7.818285941799982,
+   "posSize": 114.698,
+   "status": "win"
+  },
+  "ASTER-USDC_117788": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6669999999999999,
+   "exitPrice": 0.7358,
+   "fee": -0.0711540674,
+   "pnl": 6.582012332600008,
+   "posSize": 96.703,
+   "status": "win"
+  },
+  "ASTER-USDC_117789": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6671992011082819,
+   "exitPrice": 0.7358,
+   "fee": -0.4689864114,
+   "pnl": 43.25599658859996,
+   "posSize": 637.383,
+   "status": "win"
+  },
+  "ASTER-USDC_117790": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6672,
+   "exitPrice": 0.7357,
+   "fee": -0.0179098808,
+   "pnl": 1.6496541192000003,
+   "posSize": 24.344,
+   "status": "win"
+  },
+  "ASTER-USDC_117791": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6672,
+   "exitPrice": 0.7357,
+   "fee": -0.0842501569,
+   "pnl": 7.7601643431000005,
+   "posSize": 114.517,
+   "status": "win"
+  },
+  "ASTER-USDC_117792": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6672,
+   "exitPrice": 0.7356,
+   "fee": -0.0842387052,
+   "pnl": 7.748724094800002,
+   "posSize": 114.517,
+   "status": "win"
+  },
+  "ASTER-USDC_117793": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6672,
+   "exitPrice": 0.7355,
+   "fee": -0.585834576,
+   "pnl": 53.81593502400001,
+   "posSize": 796.512,
+   "status": "win"
+  },
+  "ASTER-USDC_117794": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6672,
+   "exitPrice": 0.7355,
+   "fee": -0.0842272535,
+   "pnl": 7.737283846500003,
+   "posSize": 114.517,
+   "status": "win"
+  },
+  "ASTER-USDC_117795": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6672,
+   "exitPrice": 0.7354,
+   "fee": -0.0842158018,
+   "pnl": 7.725843598200004,
+   "posSize": 114.517,
+   "status": "win"
+  },
+  "ASTER-USDC_117796": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6610031310452336,
+   "exitPrice": 0.7354,
+   "fee": -0.702906351,
+   "pnl": 70.40673694900015,
+   "posSize": 955.8150000000002,
+   "status": "win"
+  },
+  "ASTER-USDC_117797": {
+   "asset": "ASTER-USDC",
+   "closedAt": 1788988010711,
+   "direction": "long",
+   "entry": 0.6572005327339275,
+   "exitPrice": 0.7351,
+   "fee": -0.6115554185,
+   "pnl": 64.19573788149997,
+   "posSize": 831.935,
+   "status": "win"
+  },
+  "BNB-USDC_408107": {
+   "asset": "BNB-USDC",
+   "closedAt": 1788806169192,
+   "direction": "long",
+   "entry": 769.3790423123802,
+   "exitPrice": 738.7,
+   "fee": -0.6999884265,
+   "pnl": -29.771295526499866,
+   "posSize": 0.9475950000000001,
+   "status": "loss"
+  },
+  "BNB-USDC_408108": {
+   "asset": "BNB-USDC",
+   "closedAt": 1788806169192,
+   "direction": "long",
+   "entry": 769.4,
+   "exitPrice": 738.7,
+   "fee": -0.028491659,
+   "pnl": -1.2125906589999973,
+   "posSize": 0.03857,
+   "status": "loss"
+  },
+  "BNB-USDC_408109": {
+   "asset": "BNB-USDC",
+   "closedAt": 1788806169192,
+   "direction": "long",
+   "entry": 766.6710322316467,
+   "exitPrice": 738.7,
+   "fee": -2.8376961051,
+   "pnl": -110.28766120510028,
+   "posSize": 3.841473,
+   "status": "loss"
+  },
+  "BTC-USDC_3924864": {
+   "asset": "BTC-USDC",
+   "closedAt": 1783858376728,
+   "direction": "long",
+   "entry": 64021,
+   "exitPrice": 64084.3,
+   "fee": -0.397273955932,
+   "pnl": 0.09324090906802257,
+   "posSize": 0.00774905,
+   "status": "win"
+  },
+  "BTC-USDC_3924896": {
+   "asset": "BTC-USDC",
+   "closedAt": 1783858517967,
+   "direction": "long",
+   "entry": 64091.44340577518,
+   "exitPrice": 64081,
+   "fee": -0.3346121101455,
+   "pnl": -0.4154008351454738,
+   "posSize": 0.00773586,
+   "status": "loss"
+  },
+  "BTC-USDC_4045369": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784422277565,
+   "direction": "long",
+   "entry": 64753.10800189579,
+   "exitPrice": 64753.1,
+   "fee": -4.6201331669752,
+   "pnl": -4.620846835975842,
+   "posSize": 0.08918749,
+   "status": "loss"
+  },
+  "BTC-USDC_4045372": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784422315710,
+   "direction": "long",
+   "entry": 64753.200000000004,
+   "exitPrice": 64753.1,
+   "fee": -4.6126995110952,
+   "pnl": -4.621603910095718,
+   "posSize": 0.08904399,
+   "status": "loss"
+  },
+  "BTC-USDC_4115454": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784745524752,
+   "direction": "long",
+   "entry": 65720.41178189593,
+   "exitPrice": 65740,
+   "fee": -16.16807614096,
+   "pnl": -10.146175437958465,
+   "posSize": 0.30742463,
+   "status": "loss"
+  },
+  "BTC-USDC_4115575": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784746016489,
+   "direction": "long",
+   "entry": 65775.623296,
+   "exitPrice": 65793.2,
+   "fee": -0.0999234225,
+   "pnl": -0.06037583850001828,
+   "posSize": 0.00225,
+   "status": "loss"
+  },
+  "BTC-USDC_4115577": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784746023245,
+   "direction": "long",
+   "entry": 65787.5,
+   "exitPrice": 65793.2,
+   "fee": -0.2253148828227,
+   "pnl": -0.19639610382271477,
+   "posSize": 0.00507347,
+   "status": "loss"
+  },
+  "BTC-USDC_4115583": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784746034060,
+   "direction": "long",
+   "entry": 65787.5,
+   "exitPrice": 65789.6,
+   "fee": -15.757264464416,
+   "pnl": -15.128550819414258,
+   "posSize": 0.29938745,
+   "status": "loss"
+  },
+  "BTC-USDC_4115719": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784746316530,
+   "direction": "long",
+   "entry": 65834.8,
+   "exitPrice": 65833.2,
+   "fee": -0.0059871345408,
+   "pnl": -0.006169022540800662,
+   "posSize": 0.00011368,
+   "status": "loss"
+  },
+  "BTC-USDC_4115720": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784746316530,
+   "direction": "long",
+   "entry": 65834.8,
+   "exitPrice": 65827.6,
+   "fee": -0.07999369952,
+   "pnl": -0.09093049951999559,
+   "posSize": 0.001519,
+   "status": "loss"
+  },
+  "BTC-USDC_4115721": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784746316530,
+   "direction": "long",
+   "entry": 65837.4681088869,
+   "exitPrice": 65827.6,
+   "fee": -1.52056489792,
+   "pnl": -1.805496673920082,
+   "posSize": 0.028874,
+   "status": "loss"
+  },
+  "BTC-USDC_4115722": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784746316530,
+   "direction": "long",
+   "entry": 65840.67951924051,
+   "exitPrice": 65826.8,
+   "fee": -1.5999998927744,
+   "pnl": -2.0216979947741573,
+   "posSize": 0.03038276,
+   "status": "loss"
+  },
+  "BTC-USDC_4115723": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784746316530,
+   "direction": "long",
+   "entry": 65841,
+   "exitPrice": 65818.1,
+   "fee": -0.03201392384,
+   "pnl": -0.04593712383999646,
+   "posSize": 0.000608,
+   "status": "loss"
+  },
+  "BTC-USDC_4115724": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784746316530,
+   "direction": "long",
+   "entry": 65847.3403496126,
+   "exitPrice": 65814.8,
+   "fee": -1.599678733248,
+   "pnl": -2.5883261432477713,
+   "posSize": 0.0303822,
+   "status": "loss"
+  },
+  "BTC-USDC_4115725": {
+   "asset": "BTC-USDC",
+   "closedAt": 1784746316530,
+   "direction": "long",
+   "entry": 65846.83426060865,
+   "exitPrice": 65813.9,
+   "fee": -1.7673864780256,
+   "pnl": -2.872919786025742,
+   "posSize": 0.03356788,
+   "status": "loss"
+  },
+  "CRV-USDC_31835": {
+   "asset": "CRV-USDC",
+   "closedAt": 1788817111344,
+   "direction": "long",
+   "entry": 0.3679,
+   "exitPrice": 0.3734,
+   "fee": -0.1999968759382,
+   "pnl": 2.7458596255618026,
+   "posSize": 535.610273,
+   "status": "win"
+  },
+  "CRV-USDC_31836": {
+   "asset": "CRV-USDC",
+   "closedAt": 1788817111344,
+   "direction": "long",
+   "entry": 0.36799041189547627,
+   "exitPrice": 0.3733,
+   "fee": -0.0269833973263,
+   "pnl": 0.3568117418737015,
+   "posSize": 72.283411,
+   "status": "win"
+  },
+  "CRV-USDC_31837": {
+   "asset": "CRV-USDC",
+   "closedAt": 1788817111344,
+   "direction": "long",
+   "entry": 0.36544083930330645,
+   "exitPrice": 0.3731,
+   "fee": -0.2261752895857,
+   "pnl": 4.416850410114305,
+   "posSize": 606.205547,
+   "status": "win"
+  },
+  "ENA-USDC_262103": {
+   "asset": "ENA-USDC",
+   "closedAt": 1788817613703,
+   "direction": "long",
+   "entry": 0.15934,
+   "exitPrice": 0.16493,
+   "fee": -0.1778011372,
+   "pnl": 5.848442462799982,
+   "posSize": 1078.04,
+   "status": "win"
+  },
+  "ENA-USDC_262104": {
+   "asset": "ENA-USDC",
+   "closedAt": 1788817613703,
+   "direction": "long",
+   "entry": 0.15935947751038254,
+   "exitPrice": 0.16486,
+   "fee": -0.4215766948,
+   "pnl": 13.64424940519999,
+   "posSize": 2557.18,
+   "status": "win"
+  },
+  "ENA-USDC_262105": {
+   "asset": "ENA-USDC",
+   "closedAt": 1788817613703,
+   "direction": "long",
+   "entry": 0.15778185873386313,
+   "exitPrice": 0.16486,
+   "fee": -0.5022608274,
+   "pnl": 21.061933572599933,
+   "posSize": 3046.59,
+   "status": "win"
+  },
+  "ETHFI-USDC_14666": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450244508,
+   "direction": "long",
+   "entry": 0.4795,
+   "exitPrice": 0.6138,
+   "fee": -1.04999997762,
+   "pnl": 228.69095309238006,
+   "posSize": 1710.6549,
+   "status": "win"
+  },
+  "ETHFI-USDC_14667": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450244509,
+   "direction": "long",
+   "entry": 0.4864,
+   "exitPrice": 0.6123,
+   "fee": -0.15548997243,
+   "pnl": 31.81607221756999,
+   "posSize": 253.9441,
+   "status": "win"
+  },
+  "ETHFI-USDC_14668": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450244509,
+   "direction": "long",
+   "entry": 0.4822107656075114,
+   "exitPrice": 0.6114,
+   "fee": -0.38232009774,
+   "pnl": 80.40217568226004,
+   "posSize": 625.3191,
+   "status": "win"
+  },
+  "ETHFI-USDC_14669": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450326603,
+   "direction": "long",
+   "entry": 0.4836158589333118,
+   "exitPrice": 0.6143,
+   "fee": -1.04999995375,
+   "pnl": 222.32350171625004,
+   "posSize": 1709.2625,
+   "status": "win"
+  },
+  "ETHFI-USDC_14670": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450326604,
+   "direction": "long",
+   "entry": 0.48050000000000004,
+   "exitPrice": 0.6126,
+   "fee": -0.09617519826,
+   "pnl": 20.64287751174,
+   "posSize": 156.9951,
+   "status": "win"
+  },
+  "ETHFI-USDC_14671": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450335138,
+   "direction": "long",
+   "entry": 0.4805,
+   "exitPrice": 0.6141,
+   "fee": -1.04999997072,
+   "pnl": 227.38184514928,
+   "posSize": 1709.8192,
+   "status": "win"
+  },
+  "ETHFI-USDC_14672": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450335138,
+   "direction": "long",
+   "entry": 0.4805,
+   "exitPrice": 0.6126,
+   "fee": -0.11107779594,
+   "pnl": 23.84154519406001,
+   "posSize": 181.3219,
+   "status": "win"
+  },
+  "ETHFI-USDC_14673": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450346422,
+   "direction": "long",
+   "entry": 0.4815045988723203,
+   "exitPrice": 0.6149,
+   "fee": -1.04999998103,
+   "pnl": 226.7352799889699,
+   "posSize": 1707.5946999999999,
+   "status": "win"
+  },
+  "ETHFI-USDC_14674": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450346422,
+   "direction": "long",
+   "entry": 0.4805,
+   "exitPrice": 0.6134,
+   "fee": -0.15548996858,
+   "pnl": 33.53315826141999,
+   "posSize": 253.4887,
+   "status": "win"
+  },
+  "ETHFI-USDC_14675": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450346422,
+   "direction": "long",
+   "entry": 0.48050000000000004,
+   "exitPrice": 0.6122,
+   "fee": -0.1650182039,
+   "pnl": 35.334650946099984,
+   "posSize": 269.5495,
+   "status": "win"
+  },
+  "ETHFI-USDC_14676": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450346422,
+   "direction": "long",
+   "entry": 0.4805,
+   "exitPrice": 0.6115,
+   "fee": -0.1937603792,
+   "pnl": 41.315004420800015,
+   "posSize": 316.8608,
+   "status": "win"
+  },
+  "ETHFI-USDC_14677": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450346422,
+   "direction": "long",
+   "entry": 0.4805,
+   "exitPrice": 0.6114,
+   "fee": -0.25749147684,
+   "pnl": 54.87112206316003,
+   "posSize": 421.1506,
+   "status": "win"
+  },
+  "ETHFI-USDC_14678": {
+   "asset": "ETHFI-USDC",
+   "closedAt": 1789450352127,
+   "direction": "long",
+   "entry": 0.4864,
+   "exitPrice": 0.6147,
+   "fee": -0.64545380982,
+   "pnl": 134.07347217018003,
+   "posSize": 1050.0306,
+   "status": "win"
+  },
+  "GRASS-USDC_41082": {
+   "asset": "GRASS-USDC",
+   "closedAt": 1788442169873,
+   "direction": "long",
+   "entry": 0.3603,
+   "exitPrice": 0.335,
+   "fee": -0.18590825,
+   "pnl": -14.226143249999996,
+   "posSize": 554.95,
+   "status": "loss"
+  },
+  "GRASS-USDC_41083": {
+   "asset": "GRASS-USDC",
+   "closedAt": 1788442966438,
+   "direction": "long",
+   "entry": 0.3603,
+   "exitPrice": 0.3358,
+   "fee": -0.033543062,
+   "pnl": -2.4808480620000024,
+   "posSize": 99.89,
+   "status": "loss"
+  },
+  "GRASS-USDC_41085": {
+   "asset": "GRASS-USDC",
+   "closedAt": 1788443787301,
+   "direction": "long",
+   "entry": 0.3603,
+   "exitPrice": 0.3342,
+   "fee": -0.597940614,
+   "pnl": -47.29527761400003,
+   "posSize": 1789.17,
+   "status": "loss"
+  },
+  "GRASS-USDC_41086": {
+   "asset": "GRASS-USDC",
+   "closedAt": 1788443787301,
+   "direction": "long",
+   "entry": 0.3603,
+   "exitPrice": 0.3341,
+   "fee": -0.004633967,
+   "pnl": -0.368027967,
+   "posSize": 13.87,
+   "status": "loss"
+  },
+  "GRASS-USDC_41087": {
+   "asset": "GRASS-USDC",
+   "closedAt": 1788443787301,
+   "direction": "long",
+   "entry": 0.3603,
+   "exitPrice": 0.334,
+   "fee": -0.00345356,
+   "pnl": -0.27539555999999993,
+   "posSize": 10.34,
+   "status": "loss"
+  },
+  "GRASS-USDC_41088": {
+   "asset": "GRASS-USDC",
+   "closedAt": 1788443787301,
+   "direction": "long",
+   "entry": 0.36029999999999995,
+   "exitPrice": 0.334,
+   "fee": -0.21175266,
+   "pnl": -16.885689659999958,
+   "posSize": 633.99,
+   "status": "loss"
+  },
+  "GRASS-USDC_41429": {
+   "asset": "GRASS-USDC",
+   "closedAt": 1788624393314,
+   "direction": "long",
+   "entry": 0.35943237320227206,
+   "exitPrice": 0.345,
+   "fee": -0.59947545,
+   "pnl": -25.677311449999998,
+   "posSize": 1737.61,
+   "status": "loss"
+  },
+  "GRASS-USDC_41430": {
+   "asset": "GRASS-USDC",
+   "closedAt": 1788624393314,
+   "direction": "long",
+   "entry": 0.3603,
+   "exitPrice": 0.3448,
+   "fee": -0.244725248,
+   "pnl": -11.24600524800001,
+   "posSize": 709.76,
+   "status": "loss"
+  },
+  "HYPE-USDC_733586": {
+   "asset": "HYPE-USDC",
+   "closedAt": 1788988141130,
+   "direction": "long",
+   "entry": 59.413,
+   "exitPrice": 85.468,
+   "fee": -0.1510817836,
+   "pnl": 45.906341716400014,
+   "posSize": 1.7677,
+   "status": "win"
+  },
+  "HYPE-USDC_733587": {
+   "asset": "HYPE-USDC",
+   "closedAt": 1788988141130,
+   "direction": "long",
+   "entry": 59.413,
+   "exitPrice": 85.467,
+   "fee": -1.2859963089,
+   "pnl": 390.7407254911,
+   "posSize": 15.0467,
+   "status": "win"
+  },
+  "PEPE-USDC_189970": {
+   "asset": "PEPE-USDC",
+   "closedAt": 1788988263946,
+   "direction": "long",
+   "entry": 0.000002556,
+   "exitPrice": 0.000003513,
+   "fee": -0.001089395352,
+   "pnl": 0.29568013264799997,
+   "posSize": 310104,
+   "status": "win"
+  },
+  "PEPE-USDC_189971": {
+   "asset": "PEPE-USDC",
+   "closedAt": 1788988263946,
+   "direction": "long",
+   "entry": 0.000002556,
+   "exitPrice": 0.000003512,
+   "fee": -0.005528586888,
+   "pnl": 1.4994056571119998,
+   "posSize": 1574199,
+   "status": "win"
+  },
+  "PEPE-USDC_189972": {
+   "asset": "PEPE-USDC",
+   "closedAt": 1788988263946,
+   "direction": "long",
+   "entry": 0.0000025569499132790547,
+   "exitPrice": 0.000003512,
+   "fee": -5.481938596984,
+   "pnl": 1485.2714590250166,
+   "posSize": 1560916457,
+   "status": "win"
+  },
+  "PUMP-USDC_243175": {
+   "asset": "PUMP-USDC",
+   "closedAt": 1788808069324,
+   "direction": "long",
+   "entry": 0.002782,
+   "exitPrice": 0.00431,
+   "fee": -1.54771669,
+   "pnl": 547.1555553099997,
+   "posSize": 359099,
+   "status": "win"
+  },
+  "UNI-USDC_784273": {
+   "asset": "UNI-USDC",
+   "closedAt": 1788817401455,
+   "direction": "long",
+   "entry": 5.877000000000001,
+   "exitPrice": 6.886,
+   "fee": -0.6610091752,
+   "pnl": 96.19612962479995,
+   "posSize": 95.9932,
+   "status": "win"
+  },
+  "UNI-USDC_811123": {
+   "asset": "UNI-USDC",
+   "closedAt": 1789303174321,
+   "direction": "long",
+   "entry": 6.3604761758905335,
+   "exitPrice": 6.251,
+   "fee": -0.6000003597,
+   "pnl": -11.108038259700058,
+   "posSize": 95.9847,
+   "status": "loss"
+  },
+  "UNI-USDC_811124": {
+   "asset": "UNI-USDC",
+   "closedAt": 1789303174321,
+   "direction": "long",
+   "entry": 6.365100165932367,
+   "exitPrice": 6.25,
+   "fee": -2.29385625,
+   "pnl": -44.53757384999968,
+   "posSize": 367.01700000000005,
+   "status": "loss"
+  },
+  "UNI-USDC_811125": {
+   "asset": "UNI-USDC",
+   "closedAt": 1789303174322,
+   "direction": "long",
+   "entry": 6.358,
+   "exitPrice": 6.248,
+   "fee": -0.7581910512,
+   "pnl": -14.106625051199932,
+   "posSize": 121.3494,
+   "status": "loss"
+  },
+  "UNI-USDC_811126": {
+   "asset": "UNI-USDC",
+   "closedAt": 1789303174322,
+   "direction": "long",
+   "entry": 6.358,
+   "exitPrice": 6.245,
+   "fee": -0.757827003,
+   "pnl": -14.470309202999946,
+   "posSize": 121.3494,
+   "status": "loss"
+  },
+  "UNI-USDC_811127": {
+   "asset": "UNI-USDC",
+   "closedAt": 1789303174322,
+   "direction": "long",
+   "entry": 6.358,
+   "exitPrice": 6.244,
+   "fee": -0.2821482524,
+   "pnl": -5.433477652399994,
+   "posSize": 45.1871,
+   "status": "loss"
+  },
+  "UNI-USDC_811128": {
+   "asset": "UNI-USDC",
+   "closedAt": 1789303174322,
+   "direction": "long",
+   "entry": 6.358,
+   "exitPrice": 6.243,
+   "fee": -0.2140268961,
+   "pnl": -4.156537396099976,
+   "posSize": 34.2827,
+   "status": "loss"
+  },
+  "ZEC-USDC_706980": {
+   "asset": "ZEC-USDC",
+   "closedAt": 1788816944556,
+   "direction": "long",
+   "entry": 637.6074384685506,
+   "exitPrice": 1150.87,
+   "fee": -0.0252500878,
+   "pnl": 11.235730512199996,
+   "posSize": 0.02194,
+   "status": "win"
+  },
+  "ZEC-USDC_706981": {
+   "asset": "ZEC-USDC",
+   "closedAt": 1788816944556,
+   "direction": "long",
+   "entry": 637.68,
+   "exitPrice": 1150.77,
+   "fee": -0.0243042624,
+   "pnl": 10.812156537600002,
+   "posSize": 0.02112,
+   "status": "win"
+  },
+  "ZEC-USDC_706982": {
+   "asset": "ZEC-USDC",
+   "closedAt": 1788816944556,
+   "direction": "long",
+   "entry": 637.68,
+   "exitPrice": 1150.76,
+   "fee": -0.14988649,
+   "pnl": 66.67878351,
+   "posSize": 0.13025,
+   "status": "win"
+  }
+ },
+ "okxTotalEquity": 41499.77187066749,
+ "okxTrades": {
+  "3734766274050351104": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1784737487149,
+   "direction": "long",
+   "entry": 0.07508,
+   "exitPrice": 0.07289,
+   "fee": -0.02929806,
+   "leverage": 3,
+   "openedAt": 1783807108541,
+   "pnl": -1.0911897595242401,
+   "pnlRatio": -0.0990933694535744,
+   "posId": "3734766274050351104",
+   "posSize": 44,
+   "status": "loss"
+  },
+  "3734766274050351104_1784737487149": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1784737487149,
+   "direction": "long",
+   "entry": 0.07508,
+   "exitPrice": 0.07289,
+   "fee": -0.02929806,
+   "leverage": 3,
+   "openedAt": 1783807108541,
+   "pnl": -1.0911897595242401,
+   "pnlRatio": -0.0990933694535744,
+   "posId": "3734766274050351104",
+   "posSize": 44,
+   "status": "loss"
+  },
+  "3734766274050351104_1785155944944": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1785155944944,
+   "direction": "long",
+   "entry": 0.0695,
+   "exitPrice": 0.07251,
+   "fee": -0.919585755,
+   "leverage": 3,
+   "openedAt": 1784844374879,
+   "pnl": 41.29748320368277,
+   "pnlRatio": 0.12387944226961,
+   "posId": "3734766274050351104",
+   "posSize": 1439,
+   "status": "win"
+  },
+  "3734766274050351104_1785476831516": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1785476831516,
+   "direction": "long",
+   "entry": 0.0694195976878613,
+   "exitPrice": 0.0699119653179191,
+   "fee": -2.711740545,
+   "leverage": 3,
+   "openedAt": 1785246997375,
+   "pnl": 16.14805470499985,
+   "pnlRatio": 0.016135159485539,
+   "posId": "3734766274050351104",
+   "posSize": 4325,
+   "status": "win"
+  },
+  "3734766274050351104_1787302841949": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1787302841949,
+   "direction": "long",
+   "entry": 0.070452965521554,
+   "exitPrice": 0.0851574399049733,
+   "fee": -24.8906624,
+   "leverage": 3,
+   "openedAt": 1786522724238,
+   "pnl": 4643.984953274447,
+   "pnlRatio": 0.6181373195805024,
+   "posId": "3734766274050351104",
+   "posSize": 31991,
+   "status": "win"
+  },
+  "3734766274050351104_1787585179231": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1787585179231,
+   "direction": "long",
+   "entry": 0.0927499740404228,
+   "exitPrice": 0.0923300006180852,
+   "fee": -14.97204455,
+   "leverage": 3,
+   "openedAt": 1787517081325,
+   "pnl": -85.9071586900003,
+   "pnlRatio": -0.0171745409686726,
+   "posId": "3734766274050351104",
+   "posSize": 16179,
+   "status": "loss"
+  },
+  "3734766274050351104_1789125919439": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1789125919439,
+   "direction": "long",
+   "entry": 0.08602,
+   "exitPrice": 0.0830903079129811,
+   "fee": -17.68471045,
+   "leverage": 3,
+   "openedAt": 1787720791362,
+   "pnl": -688.0277874866543,
+   "pnlRatio": -0.1147281329567521,
+   "posId": "3734766274050351104",
+   "posSize": 20915,
+   "status": "loss"
+  },
+  "3734766274050351104_1790093691843": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1790093691843,
+   "direction": "long",
+   "entry": 0.0846067916090742,
+   "exitPrice": 0.0990417253435239,
+   "fee": -11.29346555,
+   "leverage": 3,
+   "openedAt": 1789407321214,
+   "pnl": 1739.5326227348817,
+   "pnlRatio": 0.5015090847750134,
+   "posId": "3734766274050351104",
+   "posSize": 12299,
+   "status": "win"
+  },
+  "3734766274050351104_1790161999219": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1790161999219,
+   "direction": "long",
+   "entry": 0.1039269412131286,
+   "exitPrice": 0.099634740340673,
+   "fee": -9.79945935,
+   "leverage": 3,
+   "openedAt": 1790137840056,
+   "pnl": -424.0231580300252,
+   "pnlRatio": -0.1271295776193639,
+   "posId": "3734766274050351104",
+   "posSize": 9628,
+   "status": "loss"
+  },
+  "3734766274050351104_1790350890746": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1790350890746,
+   "direction": "long",
+   "entry": 0.0927012852112678,
+   "exitPrice": 0.0970852006115641,
+   "fee": -20.48175755,
+   "leverage": 3,
+   "openedAt": 1790181256132,
+   "pnl": 915.5123739699534,
+   "pnlRatio": 0.1372675194648536,
+   "posId": "3734766274050351104",
+   "posSize": 21584,
+   "status": "win"
+  },
+  "3734766274050351104_1790968613004": {
+   "asset": "DOGE-USD_UM_XPERP-310404",
+   "closedAt": 1790968613004,
+   "direction": "long",
+   "entry": 0.0978399848440404,
+   "exitPrice": 0.0905603764544832,
+   "fee": -19.26770495,
+   "leverage": 3,
+   "openedAt": 1790352537574,
+   "pnl": -1549.0687092001683,
+   "pnlRatio": -0.2322187632383621,
+   "posId": "3734766274050351104",
+   "posSize": 20454,
+   "status": "loss"
+  },
+  "3736450957087694850": {
+   "asset": "HYPE-USD_UM_XPERP-310523",
+   "closedAt": 1784702907703,
+   "direction": "long",
+   "entry": 66.9489243697479,
+   "exitPrice": 58.148,
+   "fee": -0.66989403,
+   "leverage": 5,
+   "openedAt": 1783857316008,
+   "pnl": -107.79441860315121,
+   "pnlRatio": -0.6765123256080027,
+   "posId": "3736450957087694850",
+   "posSize": 119,
+   "status": "loss"
+  },
+  "3736450957087694850_1784702907703": {
+   "asset": "HYPE-USD_UM_XPERP-310523",
+   "closedAt": 1784702907703,
+   "direction": "long",
+   "entry": 66.9489243697479,
+   "exitPrice": 58.148,
+   "fee": -0.66989403,
+   "leverage": 5,
+   "openedAt": 1783857316008,
+   "pnl": -107.79441860315121,
+   "pnlRatio": -0.6765123256080027,
+   "posId": "3736450957087694850",
+   "posSize": 119,
+   "status": "loss"
+  },
+  "3736500605500350464": {
+   "asset": "SOL-USD_UM_XPERP-310404",
+   "closedAt": 1783964211789,
+   "direction": "long",
+   "entry": 76.9584190715182,
+   "exitPrice": 74.80693851944793,
+   "fee": -1.08861291,
+   "leverage": 10,
+   "openedAt": 1783858795646,
+   "pnl": -35.848792913079706,
+   "pnlRatio": -0.2922335556481943,
+   "posId": "3736500605500350464",
+   "posSize": 1594,
+   "status": "loss"
+  },
+  "3736500605500350464_1783964211789": {
+   "asset": "SOL-USD_UM_XPERP-310404",
+   "closedAt": 1783964211789,
+   "direction": "long",
+   "entry": 76.9584190715182,
+   "exitPrice": 74.80693851944793,
+   "fee": -1.08861291,
+   "leverage": 10,
+   "openedAt": 1783858795646,
+   "pnl": -35.848792913079706,
+   "pnlRatio": -0.2922335556481943,
+   "posId": "3736500605500350464",
+   "posSize": 1594,
+   "status": "loss"
+  },
+  "3736892078347608064": {
+   "asset": "AAVE-USD_UM_XPERP-310704",
+   "closedAt": 1784737486980,
+   "direction": "long",
+   "entry": 98.76672376873661,
+   "exitPrice": 97.31,
+   "fee": -0.82411047,
+   "leverage": 5,
+   "openedAt": 1783870462446,
+   "pnl": -17.133525140000003,
+   "pnlRatio": -0.0928665274696113,
+   "posId": "3736892078347608064",
+   "posSize": 93.4,
+   "status": "loss"
+  },
+  "3736892078347608064_1784737486980": {
+   "asset": "AAVE-USD_UM_XPERP-310704",
+   "closedAt": 1784737486980,
+   "direction": "long",
+   "entry": 98.76672376873661,
+   "exitPrice": 97.31,
+   "fee": -0.82411047,
+   "leverage": 5,
+   "openedAt": 1783870462446,
+   "pnl": -17.133525140000003,
+   "pnlRatio": -0.0928665274696113,
+   "posId": "3736892078347608064",
+   "posSize": 93.4,
+   "status": "loss"
+  },
+  "3739547272495587328": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1784737486811,
+   "direction": "long",
+   "entry": 1806.8410107526881,
+   "exitPrice": 1937.01,
+   "fee": -2.350202472,
+   "leverage": 5,
+   "openedAt": 1783949593398,
+   "pnl": 185.17284613956252,
+   "pnlRatio": 0.3673272598638817,
+   "posId": "3739547272495587328",
+   "posSize": 1395,
+   "status": "win"
+  },
+  "3739547272495587328_1784737486811": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1784737486811,
+   "direction": "long",
+   "entry": 1806.8410107526881,
+   "exitPrice": 1937.01,
+   "fee": -2.350202472,
+   "leverage": 5,
+   "openedAt": 1783949593398,
+   "pnl": 185.17284613956252,
+   "pnlRatio": 0.3673272598638817,
+   "posId": "3739547272495587328",
+   "posSize": 1395,
+   "status": "win"
+  },
+  "3739547272495587328_1785155899696": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1785155899696,
+   "direction": "long",
+   "entry": 1852.8893827160493,
+   "exitPrice": 1944.64,
+   "fee": -2.76839892,
+   "leverage": 3,
+   "openedAt": 1784904613246,
+   "pnl": 144.95267105071906,
+   "pnlRatio": 0.1448715043758674,
+   "posId": "3739547272495587328",
+   "posSize": 1620,
+   "status": "win"
+  },
+  "3739547272495587328_1785476683132": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1785476683132,
+   "direction": "long",
+   "entry": 1869.557909005921,
+   "exitPrice": 1899.37,
+   "fee": -5.442520347,
+   "leverage": 3,
+   "openedAt": 1785246963923,
+   "pnl": 90.97534927687886,
+   "pnlRatio": 0.0454921379479137,
+   "posId": "3739547272495587328",
+   "posSize": 3209,
+   "status": "win"
+  },
+  "3739547272495587328_1787302830047": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1787302830047,
+   "direction": "long",
+   "entry": 1889.1404403702704,
+   "exitPrice": 2435.53,
+   "fee": -24.060303995,
+   "leverage": 3,
+   "openedAt": 1786522851926,
+   "pnl": 6060.576513655391,
+   "pnlRatio": 0.8649536988262466,
+   "posId": "3739547272495587328",
+   "posSize": 11127,
+   "status": "win"
+  },
+  "3739547272495587328_1787585183484": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1787585183484,
+   "direction": "long",
+   "entry": 2446.47,
+   "exitPrice": 2522.790092970152,
+   "fee": -15.233266815,
+   "leverage": 3,
+   "openedAt": 1787517136572,
+   "pnl": 450.33059168705586,
+   "pnlRatio": 0.0900702761614993,
+   "posId": "3739547272495587328",
+   "posSize": 6131,
+   "status": "win"
+  },
+  "3739547272495587328_1788248639733": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1788248639733,
+   "direction": "long",
+   "entry": 2451.2158182206103,
+   "exitPrice": 2468.048645066274,
+   "fee": -13.16465357,
+   "leverage": 3,
+   "openedAt": 1787720955682,
+   "pnl": 5.368250256539432,
+   "pnlRatio": 0.0048380760162113,
+   "posId": "3739547272495587328",
+   "posSize": 1358,
+   "status": "win"
+  },
+  "3739547272495587328_1788289297739": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1788289297739,
+   "direction": "long",
+   "entry": 2451.2158182206103,
+   "exitPrice": 2468.048645066274,
+   "fee": -13.16465357,
+   "leverage": 4,
+   "openedAt": 1787720955682,
+   "pnl": 5.368250256539432,
+   "pnlRatio": 0.0048380760162113,
+   "posId": "3739547272495587328",
+   "posSize": 1358,
+   "status": "win"
+  },
+  "3739547272495587328_1788680256249": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1788680256249,
+   "direction": "long",
+   "entry": 2451.2158182206103,
+   "exitPrice": 2468.048645066274,
+   "fee": -13.16465357,
+   "leverage": 4,
+   "openedAt": 1787720955682,
+   "pnl": 5.368250256539432,
+   "pnlRatio": 0.0048380760162113,
+   "posId": "3739547272495587328",
+   "posSize": 1358,
+   "status": "win"
+  },
+  "3739547272495587328_1788805980047": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1788805980047,
+   "direction": "long",
+   "entry": 2457.695001790831,
+   "exitPrice": 2489.0427113180517,
+   "fee": -27.62258339,
+   "leverage": 4,
+   "openedAt": 1787720955682,
+   "pnl": 300.02997825822666,
+   "pnlRatio": 0.0437241373944802,
+   "posId": "3739547272495587328",
+   "posSize": 11168,
+   "status": "win"
+  },
+  "3739547272495587328_1789125915577": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1789125915577,
+   "direction": "long",
+   "entry": 2490.7113036111405,
+   "exitPrice": 2453.4382399661126,
+   "fee": -23.34380207,
+   "leverage": 10,
+   "openedAt": 1788816995448,
+   "pnl": -388.7342901945239,
+   "pnlRatio": -0.1652796825239101,
+   "posId": "3739547272495587328",
+   "posSize": 9443,
+   "status": "loss"
+  },
+  "3739547272495587328_1789173828905": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1789173828905,
+   "direction": "long",
+   "entry": 2515.9042460199744,
+   "exitPrice": 2511.5102412736082,
+   "fee": -25.421121355,
+   "leverage": 5,
+   "openedAt": 1789130393127,
+   "pnl": -73.67309257105306,
+   "pnlRatio": -0.0144778738981321,
+   "posId": "3739547272495587328",
+   "posSize": 10113,
+   "status": "loss"
+  },
+  "3739547272495587328_1789303104141": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1789303104141,
+   "direction": "long",
+   "entry": 2533.1155968969974,
+   "exitPrice": 2473.3000483646983,
+   "fee": -52.27448896,
+   "leverage": 5,
+   "openedAt": 1789202740228,
+   "pnl": -1315.694356628547,
+   "pnlRatio": -0.1243589706964914,
+   "posId": "3739547272495587328",
+   "posSize": 20883,
+   "status": "loss"
+  },
+  "3739547272495587328_1789993748165": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1789993748165,
+   "direction": "long",
+   "entry": 2523.87,
+   "exitPrice": 2718.49,
+   "fee": -24.058518605,
+   "leverage": 5,
+   "openedAt": 1789407404803,
+   "pnl": 1141.6015683816884,
+   "pnlRatio": 0.3650111832231305,
+   "posId": "3739547272495587328",
+   "posSize": 6196,
+   "status": "win"
+  },
+  "3739547272495587328_1790093752410": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1790093752410,
+   "direction": "long",
+   "entry": 2523.87,
+   "exitPrice": 2724.627156000323,
+   "fee": -32.51706413,
+   "leverage": 5,
+   "openedAt": 1789407404803,
+   "pnl": 2409.7940274539114,
+   "pnlRatio": 0.3852801103284564,
+   "posId": "3739547272495587328",
+   "posSize": 12391,
+   "status": "win"
+  },
+  "3739547272495587328_1790110623934": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1790110623934,
+   "direction": "long",
+   "entry": 2753.3290506645903,
+   "exitPrice": 2749.89057227073,
+   "fee": -49.47669602,
+   "leverage": 5,
+   "openedAt": 1790109347981,
+   "pnl": -111.30397602000001,
+   "pnlRatio": -0.0112410977609699,
+   "posId": "3739547272495587328",
+   "posSize": 17981,
+   "status": "loss"
+  },
+  "3739547272495587328_1790162243619": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1790162243619,
+   "direction": "long",
+   "entry": 2785.275037593985,
+   "exitPrice": 2730.4111946533,
+   "fee": -19.80682926,
+   "leverage": 10,
+   "openedAt": 1790137670429,
+   "pnl": -415.80796638,
+   "pnlRatio": -0.2078640180067139,
+   "posId": "3739547272495587328",
+   "posSize": 7182,
+   "status": "loss"
+  },
+  "3739547272495587328_1790350851845": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1790350851845,
+   "direction": "long",
+   "entry": 2664.3829236836496,
+   "exitPrice": 2675.940237689192,
+   "fee": -25.05145595,
+   "leverage": 5,
+   "openedAt": 1790181130327,
+   "pnl": 77.11176871866861,
+   "pnlRatio": 0.01542405619553,
+   "posId": "3739547272495587328",
+   "posSize": 9382,
+   "status": "win"
+  },
+  "3739547272495587328_1790519662019": {
+   "asset": "ETH-USD_UM_XPERP-310404",
+   "closedAt": 1790519662019,
+   "direction": "long",
+   "entry": 2713.05,
+   "exitPrice": 2692.82,
+   "fee": -0.316243395,
+   "leverage": 10,
+   "openedAt": 1790512411922,
+   "pnl": -2.683153395,
+   "pnlRatio": -0.0845282431212104,
+   "posId": "3739547272495587328",
+   "posSize": 117,
+   "status": "loss"
+  },
+  "3750516996826030080": {
+   "asset": "BTC-USD_UM_XPERP-310404",
+   "closedAt": 1784310460101,
+   "direction": "long",
+   "entry": 62732.8,
+   "exitPrice": 64101.3,
+   "fee": -0.4166500185,
+   "leverage": 5,
+   "openedAt": 1784276516659,
+   "pnl": 9.5271267415,
+   "pnlRatio": 0.1040194168760202,
+   "posId": "3750516996826030080",
+   "posSize": 73,
+   "status": "win"
+  },
+  "3750516996826030080_1784310460101": {
+   "asset": "BTC-USD_UM_XPERP-310404",
+   "closedAt": 1784310460101,
+   "direction": "long",
+   "entry": 62732.8,
+   "exitPrice": 64101.3,
+   "fee": -0.4166500185,
+   "leverage": 5,
+   "openedAt": 1784276516659,
+   "pnl": 9.5271267415,
+   "pnlRatio": 0.1040194168760202,
+   "posId": "3750516996826030080",
+   "posSize": 73,
+   "status": "win"
+  },
+  "3750516996826030080_1784422228367": {
+   "asset": "BTC-USD_UM_XPERP-310404",
+   "closedAt": 1784422228367,
+   "direction": "long",
+   "entry": 64710.1,
+   "exitPrice": 64726.9,
+   "fee": -15.534381555,
+   "leverage": 3,
+   "openedAt": 1784422212026,
+   "pnl": -11.053821555,
+   "pnlRatio": -0.0019214921627381,
+   "posId": "3750516996826030080",
+   "posSize": 2667,
+   "status": "loss"
+  },
+  "3750516996826030080_1786945379236": {
+   "asset": "BTC-USD_UM_XPERP-310404",
+   "closedAt": 1786945379236,
+   "direction": "long",
+   "entry": 63014.9,
+   "exitPrice": 63375.3,
+   "fee": -7.02097561,
+   "leverage": 3,
+   "openedAt": 1786640272570,
+   "pnl": 26.019457794,
+   "pnlRatio": 0.0111496744420764,
+   "posId": "3750516996826030080",
+   "posSize": 1111,
+   "status": "win"
+  },
+  "3750516996826030080_1787153266561": {
+   "asset": "BTC-USD_UM_XPERP-310404",
+   "closedAt": 1787153266561,
+   "direction": "long",
+   "entry": 64636,
+   "exitPrice": 68979.9,
+   "fee": -1.8706226,
+   "leverage": 10,
+   "openedAt": 1787074681610,
+   "pnl": 120.77600714219336,
+   "pnlRatio": 0.6673415475132907,
+   "posId": "3750516996826030080",
+   "posSize": 280,
+   "status": "win"
+  },
+  "3768615006168506368_1786564515019": {
+   "asset": "SPCX-USD_UM_XPERP-310613",
+   "closedAt": 1786564515019,
+   "direction": "long",
+   "entry": 113,
+   "exitPrice": 145.61000847457626,
+   "fee": -3.37733715,
+   "leverage": 3,
+   "openedAt": 1784815879368,
+   "pnl": 1113.4268482780012,
+   "pnlRatio": 0.8350283847892614,
+   "posId": "3768615006168506368",
+   "posSize": 3540,
+   "status": "win"
+  },
+  "3768615006168506368_1787234657327": {
+   "asset": "SPCX-USD_UM_XPERP-310613",
+   "closedAt": 1787234657327,
+   "direction": "long",
+   "entry": 113,
+   "exitPrice": 145.61000847457626,
+   "fee": -3.37733715,
+   "leverage": 3,
+   "openedAt": 1784815879368,
+   "pnl": 1113.4268482780012,
+   "pnlRatio": 0.8350283847892614,
+   "posId": "3768615006168506368",
+   "posSize": 3540,
+   "status": "win"
+  },
+  "3768615006168506368_1787559591597": {
+   "asset": "SPCX-USD_UM_XPERP-310613",
+   "closedAt": 1787559591597,
+   "direction": "long",
+   "entry": 113,
+   "exitPrice": 145.61000847457626,
+   "fee": -3.37733715,
+   "leverage": 3,
+   "openedAt": 1784815879368,
+   "pnl": 1113.4268482780012,
+   "pnlRatio": 0.8350283847892614,
+   "posId": "3768615006168506368",
+   "posSize": 3540,
+   "status": "win"
+  },
+  "3768615006168506368_1789126496323": {
+   "asset": "SPCX-USD_UM_XPERP-310613",
+   "closedAt": 1789126496323,
+   "direction": "long",
+   "entry": 121.41830993594112,
+   "exitPrice": 147.44717868338557,
+   "fee": -8.16324545,
+   "leverage": 3,
+   "openedAt": 1784815879368,
+   "pnl": 1873.3640493511934,
+   "pnlRatio": 0.6308712465267661,
+   "posId": "3768615006168506368",
+   "posSize": 7337,
+   "status": "win"
+  },
+  "3768615006168506368_1790279654813": {
+   "asset": "SPCX-USD_UM_XPERP-310613",
+   "closedAt": 1790279654813,
+   "direction": "long",
+   "entry": 150.234246945724,
+   "exitPrice": 147.52207891047468,
+   "fee": -14.86697335,
+   "leverage": 3,
+   "openedAt": 1789130512926,
+   "pnl": -292.20962320150426,
+   "pnlRatio": -0.0584326069767923,
+   "posId": "3768615006168506368",
+   "posSize": 9986,
+   "status": "loss"
+  },
+  "3771590409086656512": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1785155965297,
+   "direction": "long",
+   "entry": 0.001833,
+   "exitPrice": 0.002135,
+   "fee": -0.973152,
+   "leverage": 3,
+   "openedAt": 1784904553285,
+   "pnl": 162.7028285,
+   "pnlRatio": 0.48860441898527,
+   "posId": "3771590409086656512",
+   "posSize": 545,
+   "status": "win"
+  },
+  "3771590409086656512_1785155965297": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1785155965297,
+   "direction": "long",
+   "entry": 0.001833,
+   "exitPrice": 0.002135,
+   "fee": -0.973152,
+   "leverage": 3,
+   "openedAt": 1784904553285,
+   "pnl": 162.7028285,
+   "pnlRatio": 0.48860441898527,
+   "posId": "3771590409086656512",
+   "posSize": 545,
+   "status": "win"
+  },
+  "3771590409086656512_1785476712401": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1785476712401,
+   "direction": "long",
+   "entry": 0.0019331705351389,
+   "exitPrice": 0.0020000016118633,
+   "fee": -5.490315,
+   "leverage": 3,
+   "openedAt": 1785246912882,
+   "pnl": 197.6621201490888,
+   "pnlRatio": 0.0988855295203742,
+   "posId": "3771590409086656512",
+   "posSize": 3102,
+   "status": "win"
+  },
+  "3771590409086656512_1787302837148": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1787302837148,
+   "direction": "long",
+   "entry": 0.0027542982359429,
+   "exitPrice": 0.00388,
+   "fee": -12.034617,
+   "leverage": 3,
+   "openedAt": 1786522698835,
+   "pnl": 4048.342600915231,
+   "pnlRatio": 1.2154029076678858,
+   "posId": "3771590409086656512",
+   "posSize": 3628,
+   "status": "win"
+  },
+  "3771590409086656512_1788555272321": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1788555272321,
+   "direction": "long",
+   "entry": 0.0046855642994243,
+   "exitPrice": 0.004276,
+   "fee": -11.992512,
+   "leverage": 3,
+   "openedAt": 1787720756419,
+   "pnl": -479.89058887623287,
+   "pnlRatio": -0.2948722249840473,
+   "posId": "3771590409086656512",
+   "posSize": 1042,
+   "status": "loss"
+  },
+  "3771590409086656512_1788622294680": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1788622294680,
+   "direction": "long",
+   "entry": 0.0046855642994243,
+   "exitPrice": 0.0040847550383877,
+   "fee": -18.2773455,
+   "leverage": 3,
+   "openedAt": 1787720756419,
+   "pnl": -2566.220141176661,
+   "pnlRatio": -0.3942081072060771,
+   "posId": "3771590409086656512",
+   "posSize": 4168,
+   "status": "loss"
+  },
+  "3771590409086656512_1789125908374": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1789125908374,
+   "direction": "long",
+   "entry": 0.0043059718269239,
+   "exitPrice": 0.0036397650961538,
+   "fee": -41.317832,
+   "leverage": 3,
+   "openedAt": 1788806057148,
+   "pnl": -7001.17299380904,
+   "pnlRatio": -0.4690158723756143,
+   "posId": "3771590409086656512",
+   "posSize": 10400,
+   "status": "loss"
+  },
+  "3771590409086656512_1789137282495": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1789137282495,
+   "direction": "long",
+   "entry": 0.0037298853298743,
+   "exitPrice": 0.0037146993580112,
+   "fee": -54.5018045,
+   "leverage": 3,
+   "openedAt": 1789130574243,
+   "pnl": -276.8548045195102,
+   "pnlRatio": -0.0152081867415044,
+   "posId": "3771590409086656512",
+   "posSize": 14642,
+   "status": "loss"
+  },
+  "3771590409086656512_1789173846294": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1789173846294,
+   "direction": "long",
+   "entry": 0.003612,
+   "exitPrice": 0.0035870773955774,
+   "fee": -5.860049,
+   "leverage": 3,
+   "openedAt": 1789143673418,
+   "pnl": -47.0185823999928,
+   "pnlRatio": -0.0239877019272331,
+   "posId": "3771590409086656512",
+   "posSize": 1628,
+   "status": "loss"
+  },
+  "3771590409086656512_1790093710564": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1790093710564,
+   "direction": "long",
+   "entry": 0.0043066710481978,
+   "exitPrice": 0.0044069700033704,
+   "fee": -25.853373,
+   "leverage": 3,
+   "openedAt": 1789407260555,
+   "pnl": 550.1770853697548,
+   "pnlRatio": 0.064585423281792,
+   "posId": "3771590409086656512",
+   "posSize": 5934,
+   "status": "win"
+  },
+  "3771590409086656512_1790162423484": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1790162423484,
+   "direction": "long",
+   "entry": 0.0044907370751995,
+   "exitPrice": 0.0042602521691974,
+   "fee": -48.4104725,
+   "leverage": 3,
+   "openedAt": 1790109549932,
+   "pnl": -2605.8364365072343,
+   "pnlRatio": -0.15733980637054,
+   "posId": "3771590409086656512",
+   "posSize": 11064,
+   "status": "loss"
+  },
+  "3771590409086656512_1790241466496": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1790241466496,
+   "direction": "long",
+   "entry": 0.0040410914554484,
+   "exitPrice": 0.00388407551607,
+   "fee": -15.164807,
+   "leverage": 4,
+   "openedAt": 1790181394042,
+   "pnl": -619.1273637511368,
+   "pnlRatio": -0.1601337407457492,
+   "posId": "3771590409086656512",
+   "posSize": 3827,
+   "status": "loss"
+  },
+  "3771590409086656512_1790350838862": {
+   "asset": "PUMP-USD_UM_XPERP-310404",
+   "closedAt": 1790350838862,
+   "direction": "long",
+   "entry": 0.003793,
+   "exitPrice": 0.0040700573272589,
+   "fee": -10.3556465,
+   "leverage": 4,
+   "openedAt": 1790252802519,
+   "pnl": 716.3015458999427,
+   "pnlRatio": 0.286785550851854,
+   "posId": "3771590409086656512",
+   "posSize": 2634,
+   "status": "win"
+  },
+  "3791737699226968065": {
+   "asset": "BTC-USD_UM_XPERP-310404",
+   "closedAt": 1785506454997,
+   "direction": "short",
+   "entry": 63571.3,
+   "exitPrice": 63214.5,
+   "fee": -1.791483354,
+   "leverage": 5,
+   "openedAt": 1785504989321,
+   "pnl": 9.412036646,
+   "pnlRatio": 0.0235756064450467,
+   "posId": "3791737699226968065",
+   "posSize": 314,
+   "status": "win"
+  },
+  "3791737699226968065_1785506454997": {
+   "asset": "BTC-USD_UM_XPERP-310404",
+   "closedAt": 1785506454997,
+   "direction": "short",
+   "entry": 63571.3,
+   "exitPrice": 63214.5,
+   "fee": -1.791483354,
+   "leverage": 5,
+   "openedAt": 1785504989321,
+   "pnl": 9.412036646,
+   "pnlRatio": 0.0235756064450467,
+   "posId": "3791737699226968065",
+   "posSize": 314,
+   "status": "win"
+  },
+  "3827527401724792834_1787074837217": {
+   "asset": "INTC-USD_UM_XPERP-310627",
+   "closedAt": 1787074837217,
+   "direction": "long",
+   "entry": 100.94438383838384,
+   "exitPrice": 96.01420202020202,
+   "fee": -4.874725,
+   "leverage": 3,
+   "openedAt": 1786571605573,
+   "pnl": -257.3644751313335,
+   "pnlRatio": -0.1545192152802614,
+   "posId": "3827527401724792834",
+   "posSize": 49.5,
+   "status": "loss"
+  },
+  "3839000577658933248_1786917352402": {
+   "asset": "PEPE-USD_UM_XPERP-310404",
+   "closedAt": 1786917352402,
+   "direction": "long",
+   "entry": 0.000002554,
+   "exitPrice": 0.0000025550178845,
+   "fee": -3.4997206,
+   "leverage": 3,
+   "openedAt": 1786913532861,
+   "pnl": -1.5077206335,
+   "pnlRatio": -0.0009049621483068,
+   "posId": "3839000577658933248",
+   "posSize": 1957,
+   "status": "loss"
+  },
+  "3839000577658933248_1790093678957": {
+   "asset": "PEPE-USD_UM_XPERP-310404",
+   "closedAt": 1790093678957,
+   "direction": "long",
+   "entry": 0.000003523,
+   "exitPrice": 0.000004824,
+   "fee": -5.8637675,
+   "leverage": 3,
+   "openedAt": 1789415015318,
+   "pnl": 1808.932161,
+   "pnlRatio": 1.0963634970195857,
+   "posId": "3839000577658933248",
+   "posSize": 1405,
+   "status": "win"
+  },
+  "3839000577658933248_1790161834164": {
+   "asset": "PEPE-USD_UM_XPERP-310404",
+   "closedAt": 1790161834164,
+   "direction": "long",
+   "entry": 0.0000050162954547,
+   "exitPrice": 0.0000048180125392,
+   "fee": -6.2742885,
+   "leverage": 3,
+   "openedAt": 1790137824959,
+   "pnl": -259.909804678,
+   "pnlRatio": -0.1218176269737168,
+   "posId": "3839000577658933248",
+   "posSize": 1276,
+   "status": "loss"
+  },
+  "3839000577658933248_1790968609924": {
+   "asset": "PEPE-USD_UM_XPERP-310404",
+   "closedAt": 1790968609924,
+   "direction": "long",
+   "entry": 0.0000042533649247,
+   "exitPrice": 0.0000041330182843,
+   "fee": -27.5199165,
+   "leverage": 5,
+   "openedAt": 1790599756077,
+   "pnl": -847.5531819452,
+   "pnlRatio": -0.151810535918058,
+   "posId": "3839000577658933248",
+   "posSize": 6563,
+   "status": "loss"
+  },
+  "3866091820599562241_1789126370229": {
+   "asset": "MSTR-USD_UM_XPERP-310704",
+   "closedAt": 1789126370229,
+   "direction": "long",
+   "entry": 125.3850890868597,
+   "exitPrice": 128.62409869153674,
+   "fee": -18.24802005,
+   "leverage": 4,
+   "openedAt": 1787720914817,
+   "pnl": 338.87559639495305,
+   "pnlRatio": 0.0752416089894804,
+   "posId": "3866091820599562241",
+   "posSize": 143.68,
+   "status": "win"
+  },
+  "3866091820599562241_1789173833196": {
+   "asset": "MSTR-USD_UM_XPERP-310704",
+   "closedAt": 1789173833196,
+   "direction": "long",
+   "entry": 131.86429701925613,
+   "exitPrice": 130.98246900553943,
+   "fee": -14.94678135,
+   "leverage": 3,
+   "openedAt": 1789130465471,
+   "pnl": -120.01352260345443,
+   "pnlRatio": -0.0240076236827835,
+   "posId": "3866091820599562241",
+   "posSize": 113.73,
+   "status": "loss"
+  },
+  "3866091820599562241_1790093824259": {
+   "asset": "MSTR-USD_UM_XPERP-310704",
+   "closedAt": 1790093824259,
+   "direction": "long",
+   "entry": 132.0854656213582,
+   "exitPrice": 168.15484691174913,
+   "fee": -14.16984155,
+   "leverage": 4,
+   "openedAt": 1789450413029,
+   "pnl": 3326.3575243931846,
+   "pnlRatio": 1.0672051198886379,
+   "posId": "3866091820599562241",
+   "posSize": 94.39,
+   "status": "win"
+  },
+  "3866091820599562241_1790162002649": {
+   "asset": "MSTR-USD_UM_XPERP-310704",
+   "closedAt": 1790162002649,
+   "direction": "long",
+   "entry": 172.28431698113206,
+   "exitPrice": 167.15026163522012,
+   "fee": -6.74626225,
+   "leverage": 4,
+   "openedAt": 1790137857696,
+   "pnl": -210.82496225,
+   "pnlRatio": -0.1231399985362794,
+   "posId": "3866091820599562241",
+   "posSize": 39.75,
+   "status": "loss"
+  },
+  "3866091820599562241_1790241462204": {
+   "asset": "MSTR-USD_UM_XPERP-310704",
+   "closedAt": 1790241462204,
+   "direction": "long",
+   "entry": 164.27789692526534,
+   "exitPrice": 157.68581464055148,
+   "fee": -14.7121318,
+   "leverage": 4,
+   "openedAt": 1790181227123,
+   "pnl": -620.9492579496095,
+   "pnlRatio": -0.1654391507374692,
+   "posId": "3866091820599562241",
+   "posSize": 91.39,
+   "status": "loss"
+  },
+  "3901950440478167040_1789125911891": {
+   "asset": "ARB-USD_UM_XPERP-310815",
+   "closedAt": 1789125911891,
+   "direction": "long",
+   "entry": 0.1601545715592891,
+   "exitPrice": 0.1388819571173746,
+   "fee": -29.08593748,
+   "leverage": 3,
+   "openedAt": 1788789584967,
+   "pnl": -4192.660896176348,
+   "pnlRatio": -0.4037223879546995,
+   "posId": "3901950440478167040",
+   "posSize": 19453.1,
+   "status": "loss"
+  },
+  "3901950440478167040_1789163869510": {
+   "asset": "ARB-USD_UM_XPERP-310815",
+   "closedAt": 1789163869510,
+   "direction": "long",
+   "entry": 0.1439081107291688,
+   "exitPrice": 0.1379025968352121,
+   "fee": -14.674728975,
+   "leverage": 3,
+   "openedAt": 1789132440420,
+   "pnl": -641.6258269810145,
+   "pnlRatio": -0.1284325855545434,
+   "posId": "3901950440478167040",
+   "posSize": 10414.6,
+   "status": "loss"
+  },
+  "3901950440478167040_1790093684912": {
+   "asset": "ARB-USD_UM_XPERP-310815",
+   "closedAt": 1790093684912,
+   "direction": "long",
+   "entry": 0.1393,
+   "exitPrice": 0.212732065759069,
+   "fee": -6.322319885,
+   "leverage": 3,
+   "openedAt": 1789407246874,
+   "pnl": 2614.8945696049996,
+   "pnlRatio": 1.5678340213824005,
+   "posId": "3901950440478167040",
+   "posSize": 3591.9,
+   "status": "win"
+  },
+  "3901950440478167040_1790161991440": {
+   "asset": "ARB-USD_UM_XPERP-310815",
+   "closedAt": 1790161991440,
+   "direction": "long",
+   "entry": 0.243974924375488,
+   "exitPrice": 0.23613,
+   "fee": -9.84023053,
+   "leverage": 3,
+   "openedAt": 1790137892860,
+   "pnl": -332.40776963400407,
+   "pnlRatio": -0.0997121592528358,
+   "posId": "3901950440478167040",
+   "posSize": 4099.2,
+   "status": "loss"
+  },
+  "3901950440478167040_1790241460036": {
+   "asset": "ARB-USD_UM_XPERP-310815",
+   "closedAt": 1790241460036,
+   "direction": "long",
+   "entry": 0.2215793752691962,
+   "exitPrice": 0.2126937141234974,
+   "fee": -11.09090043,
+   "leverage": 3,
+   "openedAt": 1790181383659,
+   "pnl": -467.1644799860033,
+   "pnlRatio": -0.1238305642745437,
+   "posId": "3901950440478167040",
+   "posSize": 5107.8,
+   "status": "loss"
+  },
+  "3901950440478167040_1790350842970": {
+   "asset": "ARB-USD_UM_XPERP-310815",
+   "closedAt": 1790350842970,
+   "direction": "long",
+   "entry": 0.2175930881740493,
+   "exitPrice": 0.2188643444002066,
+   "fee": -13.10005161,
+   "leverage": 5,
+   "openedAt": 1790264194095,
+   "pnl": 59.311624027996565,
+   "pnlRatio": 0.0227040646870145,
+   "posId": "3901950440478167040",
+   "posSize": 6002.9,
+   "status": "win"
+  },
+  "3901950440478167040_1790630650659": {
+   "asset": "ARB-USD_UM_XPERP-310815",
+   "closedAt": 1790630650659,
+   "direction": "long",
+   "entry": 0.2234542578138086,
+   "exitPrice": 0.2059106908757942,
+   "fee": -19.225459625,
+   "leverage": 5,
+   "openedAt": 1790353011277,
+   "pnl": -1607.2290313970036,
+   "pnlRatio": -0.4015864023953555,
+   "posId": "3901950440478167040",
+   "posSize": 8955.3,
+   "status": "loss"
+  },
+  "3913459776178180096_1789173841660": {
+   "asset": "HYPE-USD_UM_XPERP-310523",
+   "closedAt": 1789173841660,
+   "direction": "long",
+   "entry": 81.57197988036977,
+   "exitPrice": 78.8435437737901,
+   "fee": -14.7502074,
+   "leverage": 6,
+   "openedAt": 1789132589900,
+   "pnl": -517.3695297975266,
+   "pnlRatio": -0.2069328148081455,
+   "posId": "3913459776178180096",
+   "posSize": 1839,
+   "status": "loss"
+  },
+  "3913459776178180096_1790093688382": {
+   "asset": "HYPE-USD_UM_XPERP-310523",
+   "closedAt": 1790093688382,
+   "direction": "long",
+   "entry": 81.102,
+   "exitPrice": 94.57207260406582,
+   "fee": -9.07356585,
+   "leverage": 4,
+   "openedAt": 1789414955943,
+   "pnl": 1363.3492400852856,
+   "pnlRatio": 0.6509314063658324,
+   "posId": "3913459776178180096",
+   "posSize": 1033,
+   "status": "win"
+  },
+  "3913459776178180096_1790161962617": {
+   "asset": "HYPE-USD_UM_XPERP-310523",
+   "closedAt": 1790161962617,
+   "direction": "long",
+   "entry": 96.30595283926853,
+   "exitPrice": 95.68663618864292,
+   "fee": -19.94803,
+   "leverage": 4,
+   "openedAt": 1790109392669,
+   "pnl": -152.66580686000003,
+   "pnlRatio": -0.0305142776113003,
+   "posId": "3913459776178180096",
+   "posSize": 2078,
+   "status": "loss"
+  },
+  "3913464138589884417_1789173837228": {
+   "asset": "UNI-USD_UM_XPERP-310718",
+   "closedAt": 1789173837228,
+   "direction": "long",
+   "entry": 6.1432626841243865,
+   "exitPrice": 6.012,
+   "fee": -14.853731,
+   "leverage": 6,
+   "openedAt": 1789132719910,
+   "pnl": -338.63261260000036,
+   "pnlRatio": -0.1353255323017633,
+   "posId": "3913464138589884417",
+   "posSize": 2444,
+   "status": "loss"
+  },
+  "3913464138589884417_1790093668111": {
+   "asset": "UNI-USD_UM_XPERP-310718",
+   "closedAt": 1790093668111,
+   "direction": "long",
+   "entry": 6.692,
+   "exitPrice": 9.138,
+   "fee": -5.659225,
+   "leverage": 3,
+   "openedAt": 1789414994894,
+   "pnl": 1730.0981084349164,
+   "pnlRatio": 1.0847508820269165,
+   "posId": "3913464138589884417",
+   "posSize": 715,
+   "status": "win"
+  },
+  "3913464138589884417_1790378258106": {
+   "asset": "UNI-USD_UM_XPERP-310718",
+   "closedAt": 1790378258106,
+   "direction": "long",
+   "entry": 9.567996022727273,
+   "exitPrice": 9.579,
+   "fee": -16.8493565,
+   "leverage": 5,
+   "openedAt": 1790353088001,
+   "pnl": 2.517643499999872,
+   "pnlRatio": 0.0007475333695612,
+   "posId": "3913464138589884417",
+   "posSize": 1760,
+   "status": "win"
+  },
+  "3913466941190262785_1789155767022": {
+   "asset": "NEAR-USD_UM_XPERP-310613",
+   "closedAt": 1789155767022,
+   "direction": "long",
+   "entry": 2.6097639040348963,
+   "exitPrice": 2.4890019083969466,
+   "fee": -9.3511365,
+   "leverage": 5,
+   "openedAt": 1789132803434,
+   "pnl": -453.26605210000025,
+   "pnlRatio": -0.2367514516411088,
+   "posId": "3913466941190262785",
+   "posSize": 3668,
+   "status": "loss"
+  },
+  "3913466941190262785_1789920150486": {
+   "asset": "NEAR-USD_UM_XPERP-310613",
+   "closedAt": 1789920150486,
+   "direction": "long",
+   "entry": 3.5140167597765366,
+   "exitPrice": 3.908293706293706,
+   "fee": -4.612383,
+   "leverage": 5,
+   "openedAt": 1789847208011,
+   "pnl": 162.19098625586588,
+   "pnlRatio": 0.5379421796696731,
+   "posId": "3913466941190262785",
+   "posSize": 429,
+   "status": "win"
+  },
+  "3913466941190262785_1789991501752": {
+   "asset": "NEAR-USD_UM_XPERP-310613",
+   "closedAt": 1789991501752,
+   "direction": "long",
+   "entry": 3.5140167597765366,
+   "exitPrice": 4.090961180124223,
+   "fee": -6.408633,
+   "leverage": 5,
+   "openedAt": 1789847208011,
+   "pnl": 732.9045350078211,
+   "pnlRatio": 0.8096507486996526,
+   "posId": "3913466941190262785",
+   "posSize": 1288,
+   "status": "win"
+  },
+  "3913466941190262785_1790093655388": {
+   "asset": "NEAR-USD_UM_XPERP-310613",
+   "closedAt": 1790093655388,
+   "direction": "long",
+   "entry": 3.5140167597765366,
+   "exitPrice": 4.225145251396648,
+   "fee": -8.31186,
+   "leverage": 5,
+   "openedAt": 1789847208011,
+   "pnl": 1513.9283165999998,
+   "pnlRatio": 1.002852845110324,
+   "posId": "3913466941190262785",
+   "posSize": 2148,
+   "status": "win"
+  },
+  "3913466941190262785_1790350880109": {
+   "asset": "NEAR-USD_UM_XPERP-310613",
+   "closedAt": 1790350880109,
+   "direction": "long",
+   "entry": 4.194,
+   "exitPrice": 5.08517680608365,
+   "fee": -2.4404235,
+   "leverage": 4,
+   "openedAt": 1790242568203,
+   "pnl": 465.649514191712,
+   "pnlRatio": 0.8443159142641072,
+   "posId": "3913466941190262785",
+   "posSize": 526,
+   "status": "win"
+  },
+  "3913466941190262785_1790660040305": {
+   "asset": "NEAR-USD_UM_XPERP-310613",
+   "closedAt": 1790660040305,
+   "direction": "long",
+   "entry": 5.1699537228541885,
+   "exitPrice": 4.648725180972079,
+   "fee": -18.989325,
+   "leverage": 4,
+   "openedAt": 1790352584844,
+   "pnl": -2047.644721511124,
+   "pnlRatio": -0.4095825791409633,
+   "posId": "3913466941190262785",
+   "posSize": 3868,
+   "status": "loss"
+  },
+  "3913468468017582080_1789153322854": {
+   "asset": "LIT-USD_UM_XPERP-310704",
+   "closedAt": 1789153322854,
+   "direction": "long",
+   "entry": 4.66317138700291,
+   "exitPrice": 4.3832,
+   "fee": -4.66340445,
+   "leverage": 5,
+   "openedAt": 1789132848937,
+   "pnl": -293.1109423713727,
+   "pnlRatio": -0.3048330091970153,
+   "posId": "3913468468017582080",
+   "posSize": 1031,
+   "status": "loss"
+  },
+  "3913468468017582080_1790052491225": {
+   "asset": "LIT-USD_UM_XPERP-310704",
+   "closedAt": 1790052491225,
+   "direction": "long",
+   "entry": 5.0144,
+   "exitPrice": 4.714703631284916,
+   "fee": -1.74150955,
+   "leverage": 3,
+   "openedAt": 1789995165810,
+   "pnl": -109.25229638056138,
+   "pnlRatio": -0.1825785810283613,
+   "posId": "3913468468017582080",
+   "posSize": 358,
+   "status": "loss"
+  },
+  "3921291098078662657_1789396022342": {
+   "asset": "VVV-USD_UM_XPERP-310704",
+   "closedAt": 1789396022342,
+   "direction": "long",
+   "entry": 22.724319646098003,
+   "exitPrice": 22.009457803992742,
+   "fee": -9.85932455,
+   "leverage": 5,
+   "openedAt": 1789365981480,
+   "pnl": -325.9844629100003,
+   "pnlRatio": -0.1627175625821858,
+   "posId": "3921291098078662657",
+   "posSize": 4408,
+   "status": "loss"
+  },
+  "3921291098078662657_1789561283999": {
+   "asset": "VVV-USD_UM_XPERP-310704",
+   "closedAt": 1789561283999,
+   "direction": "long",
+   "entry": 22.505274814314653,
+   "exitPrice": 22.598238352464552,
+   "fee": -10.01974545,
+   "leverage": 10,
+   "openedAt": 1789406238572,
+   "pnl": 25.858762754999947,
+   "pnlRatio": 0.0258611068057208,
+   "posId": "3921291098078662657",
+   "posSize": 4443,
+   "status": "win"
+  },
+  "3921291098078662657_1790241451581": {
+   "asset": "VVV-USD_UM_XPERP-310704",
+   "closedAt": 1790241451581,
+   "direction": "long",
+   "entry": 30.635,
+   "exitPrice": 29.041,
+   "fee": -4.6368252,
+   "leverage": 8,
+   "openedAt": 1790224903118,
+   "pnl": -252.58682589,
+   "pnlRatio": -0.4244551264893096,
+   "posId": "3921291098078662657",
+   "posSize": 1554,
+   "status": "loss"
+  },
+  "3921291098078662657_1790350856445": {
+   "asset": "VVV-USD_UM_XPERP-310704",
+   "closedAt": 1790350856445,
+   "direction": "long",
+   "entry": 30.84589982216953,
+   "exitPrice": 30.371245406046235,
+   "fee": -25.818331,
+   "leverage": 5,
+   "openedAt": 1790264151369,
+   "pnl": -433.39587072500007,
+   "pnlRatio": -0.0832860456753943,
+   "posId": "3921291098078662657",
+   "posSize": 8435,
+   "status": "loss"
+  },
+  "3921291098078662657_1790660011963": {
+   "asset": "VVV-USD_UM_XPERP-310704",
+   "closedAt": 1790660011963,
+   "direction": "long",
+   "entry": 30.515219646125686,
+   "exitPrice": 27.214397803538745,
+   "fee": -18.9237686,
+   "leverage": 5,
+   "openedAt": 1790352740785,
+   "pnl": -2205.402751712475,
+   "pnlRatio": -0.551191448718584,
+   "posId": "3921291098078662657",
+   "posSize": 6556,
+   "status": "loss"
+  },
+  "3924124884214566912_1790093723016": {
+   "asset": "ETHFI-USD_UM_XPERP-310822",
+   "closedAt": 1790093723016,
+   "direction": "long",
+   "entry": 0.6161999614383497,
+   "exitPrice": 0.679,
+   "fee": -6.7175546,
+   "leverage": 2,
+   "openedAt": 1789450434888,
+   "pnl": 628.9852004899996,
+   "pnlRatio": 0.1968087386418894,
+   "posId": "3924124884214566912",
+   "posSize": 10373,
+   "status": "win"
+  },
+  "3928697410181746688_1789847093920": {
+   "asset": "ZEC-USD_UM_XPERP-310530",
+   "closedAt": 1789847093920,
+   "direction": "long",
+   "entry": 1300.223512396694,
+   "exitPrice": 1482.8327272727272,
+   "fee": -3.36749805,
+   "leverage": 3,
+   "openedAt": 1789586706781,
+   "pnl": 441.372683749511,
+   "pnlRatio": 0.4208170474594921,
+   "posId": "3928697410181746688",
+   "posSize": 242,
+   "status": "win"
+  },
+  "3928697410181746688_1790052495277": {
+   "asset": "ZEC-USD_UM_XPERP-310530",
+   "closedAt": 1790052495277,
+   "direction": "long",
+   "entry": 1539.01,
+   "exitPrice": 1464.8724137931035,
+   "fee": -1.7422518,
+   "leverage": 3,
+   "openedAt": 1789995117160,
+   "pnl": -88.08637876,
+   "pnlRatio": -0.1480234697899164,
+   "posId": "3928697410181746688",
+   "posSize": 116,
+   "status": "loss"
+  },
+  "3940196230795186177_1790052482693": {
+   "asset": "STRK-USD_UM_XPERP-310919",
+   "closedAt": 1790052482693,
+   "direction": "long",
+   "entry": 0.05061,
+   "exitPrice": 0.04282,
+   "fee": -1.27008742,
+   "leverage": 3,
+   "openedAt": 1789929398340,
+   "pnl": -213.63011782,
+   "pnlRatio": -0.4657685240071132,
+   "posId": "3940196230795186177",
+   "posSize": 27188,
+   "status": "loss"
+  },
+  "3942282707586863104_1790052538039": {
+   "asset": "AERO-USD_UM_XPERP-310912",
+   "closedAt": 1790052538039,
+   "direction": "long",
+   "entry": 0.6905,
+   "exitPrice": 0.6867035714285714,
+   "fee": -3.470553,
+   "leverage": 3,
+   "openedAt": 1789991580194,
+   "pnl": -23.476019400000144,
+   "pnlRatio": -0.0202372499224166,
+   "posId": "3942282707586863104",
+   "posSize": 504,
+   "status": "loss"
+  },
+  "3942406081193529344_1790052487193": {
+   "asset": "PENDLE-USD_UM_XPERP-310919",
+   "closedAt": 1790052487193,
+   "direction": "long",
+   "entry": 2.73,
+   "exitPrice": 2.451,
+   "fee": -1.7123205,
+   "leverage": 3,
+   "openedAt": 1789995257014,
+   "pnl": -186.46608395,
+   "pnlRatio": -0.3099966483516484,
+   "posId": "3942406081193529344",
+   "posSize": 661,
+   "status": "loss"
+  },
+  "3942406684032454657_1790052504433": {
+   "asset": "CRV-USD_UM_XPERP-310815",
+   "closedAt": 1790052504433,
+   "direction": "long",
+   "entry": 0.3595,
+   "exitPrice": 0.3598,
+   "fee": -1.7996886,
+   "leverage": 3,
+   "openedAt": 1789995274980,
+   "pnl": -0.6600276,
+   "pnlRatio": -0.0011006954102921,
+   "posId": "3942406684032454657",
+   "posSize": 5004,
+   "status": "loss"
+  },
+  "3942407719388008449_1790052499439": {
+   "asset": "DASH-USD_UM_XPERP-310829",
+   "closedAt": 1790052499439,
+   "direction": "long",
+   "entry": 59.54,
+   "exitPrice": 59.56001323188885,
+   "fee": -1.8001967,
+   "leverage": 3,
+   "openedAt": 1789995305836,
+   "pnl": -1.556626580000001,
+   "pnlRatio": -0.002594530134049,
+   "posId": "3942407719388008449",
+   "posSize": 3023,
+   "status": "loss"
+  },
+  "3942410268249772033_1790052517443": {
+   "asset": "PONS-USD_UM_XPERP-310919",
+   "closedAt": 1790052517443,
+   "direction": "long",
+   "entry": 0.6333417582417583,
+   "exitPrice": 0.5911,
+   "fee": -4.456968,
+   "leverage": 3,
+   "openedAt": 1789995381798,
+   "pnl": -314.2460618994419,
+   "pnlRatio": -0.204466233032685,
+   "posId": "3942410268249772033",
+   "posSize": 728,
+   "status": "loss"
+  },
+  "3942410268249772033_1790241437022": {
+   "asset": "PONS-USD_UM_XPERP-310919",
+   "closedAt": 1790241437022,
+   "direction": "long",
+   "entry": 0.6900755703802538,
+   "exitPrice": 0.6124143028685791,
+   "fee": -48.810808,
+   "leverage": 3,
+   "openedAt": 1790107622736,
+   "pnl": -5976.43266061328,
+   "pnlRatio": -0.346653025477923,
+   "posId": "3942410268249772033",
+   "posSize": 7495,
+   "status": "loss"
+  },
+  "3942410268249772033_1790350848475": {
+   "asset": "PONS-USD_UM_XPERP-310919",
+   "closedAt": 1790350848475,
+   "direction": "long",
+   "entry": 0.6354986655773422,
+   "exitPrice": 0.6295768790849673,
+   "fee": -23.226787,
+   "leverage": 5,
+   "openedAt": 1790279683806,
+   "pnl": -293.83514588744333,
+   "pnlRatio": -0.062958798264037,
+   "posId": "3942410268249772033",
+   "posSize": 3672,
+   "status": "loss"
+  },
+  "3942410268249772033_1790527122669": {
+   "asset": "PONS-USD_UM_XPERP-310919",
+   "closedAt": 1790527122669,
+   "direction": "long",
+   "entry": 0.6375900892288082,
+   "exitPrice": 0.5856599426386233,
+   "fee": -19.192793,
+   "leverage": 5,
+   "openedAt": 1790352680446,
+   "pnl": -1790.5663068703238,
+   "pnlRatio": -0.447472051930707,
+   "posId": "3942410268249772033",
+   "posSize": 3138,
+   "status": "loss"
+  },
+  "3951192575232266242_1790350863312": {
+   "asset": "LTC-USD_UM_XPERP-310404",
+   "closedAt": 1790350863312,
+   "direction": "long",
+   "entry": 68.77963666391412,
+   "exitPrice": 70.01624002202037,
+   "fee": -25.212271,
+   "leverage": 5,
+   "openedAt": 1790257114942,
+   "pnl": 424.98693574762433,
+   "pnlRatio": 0.0850394238375162,
+   "posId": "3951192575232266242",
+   "posSize": 3633,
+   "status": "win"
+  },
+  "3951192575232266242_1790719125101": {
+   "asset": "LTC-USD_UM_XPERP-310404",
+   "closedAt": 1790719125101,
+   "direction": "long",
+   "entry": 69.95611344537815,
+   "exitPrice": 67.04624649859944,
+   "fee": -19.563937,
+   "leverage": 5,
+   "openedAt": 1790352812041,
+   "pnl": -874.953629,
+   "pnlRatio": -0.2189632167846728,
+   "posId": "3951192575232266242",
+   "posSize": 2856,
+   "status": "loss"
+  },
+  "3951337829751148544_1790273511082": {
+   "asset": "ONDO-USD_UM_XPERP-310620",
+   "closedAt": 1790273511082,
+   "direction": "long",
+   "entry": 0.4945424851680955,
+   "exitPrice": 0.5089049439683586,
+   "fee": -15.2222975,
+   "leverage": 3,
+   "openedAt": 1790261443864,
+   "pnl": 419.75648149998244,
+   "pnlRatio": 0.0839265715320231,
+   "posId": "3951337829751148544",
+   "posSize": 3034,
+   "status": "win"
+  },
+  "3951427314287464448_1790350860337": {
+   "asset": "TAO-USD_UM_XPERP-310523",
+   "closedAt": 1790350860337,
+   "direction": "long",
+   "entry": 292.0465870900452,
+   "exitPrice": 301.21443968014836,
+   "fee": -25.596247,
+   "leverage": 5,
+   "openedAt": 1790264110711,
+   "pnl": 758.4455245,
+   "pnlRatio": 0.1504810430861047,
+   "posId": "3951427314287464448",
+   "posSize": 8629,
+   "status": "win"
+  },
+  "3951427314287464448_1790967512649": {
+   "asset": "TAO-USD_UM_XPERP-310523",
+   "closedAt": 1790967512649,
+   "direction": "long",
+   "entry": 304.8361157654227,
+   "exitPrice": 286.4127037319117,
+   "fee": -19.4077425,
+   "leverage": 5,
+   "openedAt": 1790352628600,
+   "pnl": -1280.3773618788518,
+   "pnlRatio": -0.3198945503283054,
+   "posId": "3951427314287464448",
+   "posSize": 6565,
+   "status": "loss"
+  },
+  "3955260456601473024_1790527652986": {
+   "asset": "DOT-USD_UM_XPERP-310808",
+   "closedAt": 1790527652986,
+   "direction": "long",
+   "entry": 1.2229,
+   "exitPrice": 1.2359436363636365,
+   "fee": -10.2779664,
+   "leverage": 3,
+   "openedAt": 1790378347254,
+   "pnl": 92.5265116000003,
+   "pnlRatio": 0.027151274541143,
+   "posId": "3955260456601473024",
+   "posSize": 8360,
+   "status": "win"
+  },
+  "3960246342804131841_1790967411902": {
+   "asset": "ENA-USD_UM_XPERP-310613",
+   "closedAt": 1790967411902,
+   "direction": "long",
+   "entry": 0.2680658073148976,
+   "exitPrice": 0.2346560570918822,
+   "fee": -28.1775605,
+   "leverage": 4,
+   "openedAt": 1790526938242,
+   "pnl": -3813.286835700026,
+   "pnlRatio": -0.5075892678702058,
+   "posId": "3960246342804131841",
+   "posSize": 1121,
+   "status": "loss"
+  }
+ },
+ "products": {
+  "-Oy2vZ8Fhl-VljuvCE7F": {
+   "cat": "Webseite",
+   "name": "Artbrains.de"
+  },
+  "-Oy2wATRHTRaxCjYNoCb": {
+   "cat": "Webseite",
+   "name": "Wechselzeiten.de"
+  },
+  "-Oy2xg63Ou6QiMvtt7ey": {
+   "cat": "Webseite",
+   "name": "Fuenf.de"
+  },
+  "-Oy3-EE-JUoUyMsyvmEz": {
+   "cat": "Webseite",
+   "name": "Sandra-Hoesl.de"
+  },
+  "-Oy3-XitthzVS6c7dSS5": {
+   "cat": "",
+   "name": "Archiv"
+  },
+  "-Oy3-qu13KNdoHibbtdB": {
+   "cat": "Podcast",
+   "name": "Ichbindannmalvadder"
+  },
+  "-Oy307wiwPLtxcYGmfn2": {
+   "cat": "Live-Streaming",
+   "name": "Live-Streaming"
+  },
+  "-OzzZgCBi3pkrkMJpMYz": {
+   "cat": "Consulting",
+   "name": "pro familia"
+  },
+  "-P3lZtvVq6G22GZJtrYz": {
+   "cat": "Webseite",
+   "name": "Claudia-Dewald.de"
+  }
+ },
+ "taxData": {
+  "2023": {
+   "salary": 0,
+   "taxPaid": 0,
+   "taxPaidDate": "2026-08-04"
+  },
+  "2025": {
+   "salary": 0,
+   "taxPaid": 0,
+   "taxPaidDate": "2026-08-04"
+  },
+  "2026": {
+   "salary": 4450,
+   "taxPaid": 0,
+   "taxPaidDate": ""
+  }
+ }
+}
