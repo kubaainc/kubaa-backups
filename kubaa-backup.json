@@ -43,7 +43,9 @@
    "status": "offen"
   },
   "-OyhzD6EOqJl7uVTsiwd": {
-   "name": "Förderverein Graben-Neudorf",
+   "address": "Heiko Gerber\nBulacher Weg 1\n76676 Graben-Neudorf\nDeutschland",
+   "email": "",
+   "name": "Förderverein der Fußballjugend Graben-Neudorf e. V.",
    "status": "offen"
   },
   "-OyhzFRfpdW9l5P6lSaP": {
@@ -67,6 +69,8 @@
    "status": "beendet"
   },
   "-OyhzHaC_GeBt-73gEtV": {
+   "address": "fünf\nKanalweg 52\n76149 Karlsruhe\nKarlsruhe",
+   "email": "mail@fuenf.de",
    "name": "Ursel Hay",
    "status": "offen"
   },
@@ -83,7 +87,7 @@
    "status": "aktiv"
   },
   "-P-ErHBTPeIavlpQVthG": {
-   "address": "Kriegsstraße 208\n76135 Karlsruhe",
+   "address": "Kriegsstraße 208\n76135 Karlsruhe\nDeutschland",
    "email": "info.vadderkram@gmail.com",
    "name": "Vadderkram GbR Kai Schlattmann",
    "status": "offen"
@@ -107,6 +111,8 @@
    "status": "offen"
   },
   "-P3p4IlhtUgjiRVTPi-l": {
+   "address": "Rastatter Straße 39\n76199 Karlsruhe\nDeutschland",
+   "email": "dewald.claudia@googlemail.com",
    "name": "Claudia Dewald",
    "status": "offen"
   }
@@ -253,7 +259,7 @@
   "-OrhX6PmO8lN2nV1ghMS": {
    "amt": 587,
    "cat": "Live-Streaming",
-   "client": "Förderverein Graben-Neudorf",
+   "client": "Förderverein der Fußballjugend Graben-Neudorf e. V.",
    "date": "2025-01",
    "desc": "Videotechnik/Live-Stream U14 Wohlfeil Cup 2025 (05.01.2025)",
    "group": "Förderverein Graben-Neudorf",
@@ -433,7 +439,7 @@
   "-OrhX6PmO8lN2nV1ghMd": {
    "amt": 650,
    "cat": "Sonstiges",
-   "client": "Förderverein Graben-Neudorf",
+   "client": "Förderverein der Fußballjugend Graben-Neudorf e. V.",
    "costMaterial": 0,
    "costSub": 0,
    "costTravel": 150,
@@ -577,7 +583,7 @@
    "group": "Ursel Hay",
    "h": 1,
    "issuedDate": "2026-05-21",
-   "nr": "Offen",
+   "nr": "2026-028",
    "paid": false,
    "positions": [
     {
@@ -848,18 +854,19 @@
    ],
    "produkt": "pro familia",
    "status": "wartet_kunde",
-   "warn": "White Noise: 75,71€ Amazon (Trade Republic). Fehlend: Winkel, Schrauben, Netzteile, Panele, Vorhänge. Annabell (Sa) und Papa (So) können jew. losen Beleg über 256€ stellen (steuerfrei) = 512€",
+   "warn": "White Noise: 75,71€ Amazon (Trade Republic). Fehlend: Winkel, Schrauben, Netzteile, Panele, Vorhänge. Papa (So) können jew. losen Beleg über 256€ stellen (steuerfrei)",
    "y": 2026
   },
   "-P0J5Wz_kYGt0dIZ5WSR": {
    "amt": 200,
    "cat": "Live-Streaming",
-   "client": "Förderverein Graben-Neudorf",
+   "client": "Förderverein der Fußballjugend Graben-Neudorf e. V.",
    "date": "2027-01",
    "desc": "Programmierung Vorbereitung und Umsetzung Webseite",
-   "group": "Förderverein Graben-Neudorf",
+   "group": "Förderverein der Fußballjugend Graben-Neudorf e. V.",
    "h": 2,
-   "nr": "Offen",
+   "issuedDate": "2026-10-28",
+   "nr": "2026-027",
    "paid": false,
    "positions": [
     {
@@ -1021,7 +1028,8 @@
    "desc": "Webseite",
    "group": "Claudia Dewald",
    "h": 20,
-   "nr": "Offen",
+   "issuedDate": "2026-10-28",
+   "nr": "2026-029",
    "paid": false,
    "positions": [
     {
