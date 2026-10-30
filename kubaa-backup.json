@@ -1053,7 +1053,8 @@
    "h": 11,
    "issuedDate": "2026-10-12",
    "nr": "2026-026",
-   "paid": false,
+   "paid": true,
+   "paidDate": "2026-10-29",
    "positions": [
     {
      "label": "Webentwicklung & -Anpassung",
@@ -1062,7 +1063,7 @@
     }
    ],
    "produkt": "Artbrains.de",
-   "status": "open",
+   "status": "paid",
    "warn": "",
    "y": 2026
   }
