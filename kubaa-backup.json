@@ -133,6 +133,41 @@
    "desc": "Themify Lizenz",
    "type": "expense",
    "y": 2026
+  },
+  "-P5DVhIEYQh5lJNbuETf": {
+   "amt": 41,
+   "date": "2026-03",
+   "desc": "Mitgliedsbeitrag",
+   "type": "expense",
+   "y": 2026
+  },
+  "-P5DW39fn0cGkzECQpGG": {
+   "amt": 340,
+   "date": "2026-03",
+   "desc": "Aquise Hamburg",
+   "type": "expense",
+   "y": 2026
+  },
+  "-P5DWXW30RruX-8y0xIW": {
+   "amt": 119.88,
+   "date": "2026-12",
+   "desc": "Speicherplatz",
+   "type": "expense",
+   "y": 2026
+  },
+  "-P5DX-q3sUUTXSwZnuuj": {
+   "amt": 29,
+   "date": "2026-10",
+   "desc": "Material",
+   "type": "expense",
+   "y": 2026
+  },
+  "-P5DYyInv3cKI-tv2fyw": {
+   "amt": 75,
+   "date": "2026-09",
+   "desc": "Material",
+   "type": "expense",
+   "y": 2026
   }
  },
  "invoices": {
