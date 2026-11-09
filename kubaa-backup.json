@@ -767,16 +767,16 @@
    "y": 2026
   },
   "-Ozz_N0rmpHqlw9BJK_v": {
-   "amt": 2400,
+   "amt": 2000,
    "cat": "Sonstiges",
    "client": "Jasmin Nyhuis",
-   "costMaterial": 1167.4,
-   "costSub": 512,
-   "costTravel": 50,
+   "costMaterial": 974.17,
+   "costSub": 1330,
+   "costTravel": 49,
    "date": "2026-11",
    "desc": "Beratung  - Akustikpanele und Trennwand",
    "group": "Jasmin Nyhuis",
-   "h": 43,
+   "h": 2,
    "issuedDate": "2026-10-27",
    "nr": "Kostenvoranschlag",
    "paid": false,
@@ -789,14 +789,7 @@
        "rate": 44.28,
        "title": "Akustikpanele",
        "type": "Material"
-      }
-     ],
-     "label": "Akustikpanele",
-     "qty": 18,
-     "rate": 50
-    },
-    {
-     "exps": [
+      },
       {
        "amt": 75.72,
        "qty": 3,
@@ -805,86 +798,65 @@
        "type": "Material"
       },
       {
-       "amt": 14.940000000000001,
-       "qty": 3,
-       "rate": 4.98,
-       "title": "Netzteile",
+       "amt": 11.16,
+       "qty": 2,
+       "rate": 5.58,
+       "title": "Netzteil",
        "type": "Material"
-      }
-     ],
-     "label": "White Noise Gerät",
-     "qty": 3,
-     "rate": 50
-    },
-    {
-     "exps": [
+      },
       {
-       "amt": 149.75,
+       "amt": 90.25,
        "qty": 5,
-       "rate": 29.95,
+       "rate": 18.05,
        "title": "Schallschutzvorhänge",
        "type": "Material"
       },
       {
-       "amt": 49.95,
+       "amt": 0,
        "qty": 5,
-       "rate": 9.99,
-       "title": "Gardienenstange",
-       "type": "Material"
-      }
-     ],
-     "label": "Schallschutzvorhänge",
-     "qty": 5,
-     "rate": 100
-    },
-    {
-     "exps": [
-      {
-       "amt": 50,
-       "qty": 1,
-       "rate": 50,
-       "title": "Fahrtkosten",
-       "type": "Fahrtkosten"
-      }
-     ],
-     "label": "Lieferung (oder Stadtmobil)",
-     "qty": 1,
-     "rate": 50
-    },
-    {
-     "exps": [
-      {
-       "amt": 30,
-       "qty": 3,
-       "rate": 10,
-       "title": "Winkel & Schrauben",
+       "rate": 0,
+       "title": "Gardinenstange",
        "type": "Material"
       },
       {
-       "amt": 50,
+       "amt": 0,
        "qty": 1,
-       "rate": 50,
+       "rate": 0,
        "title": "Sonstiges",
        "type": "Material"
+      }
+     ],
+     "label": "Akustikpanele & Trennwand",
+     "qty": 1,
+     "rate": 2000
+    },
+    {
+     "exps": [
+      {
+       "amt": 49,
+       "qty": 1,
+       "rate": 49,
+       "title": "Lieferung",
+       "type": "Fahrtkosten"
       },
       {
-       "amt": 256,
-       "qty": 1,
-       "rate": 256,
-       "title": "Helfer Montage 1",
+       "amt": 800,
+       "qty": 16,
+       "rate": 50,
+       "title": "Montage",
        "type": "Fremdleistung"
       },
       {
-       "amt": 256,
-       "qty": 1,
-       "rate": 256,
-       "title": "Helfer Montage 2",
+       "amt": 530,
+       "qty": 2,
+       "rate": 265,
+       "title": "Helfer",
        "type": "Fremdleistung"
       }
      ],
-     "label": "Montage",
-     "qty": 16,
-     "rate": 50
+     "label": "Lieferung",
+     "qty": 1,
+     "rate": 0
     }
    ],
    "produkt": "pro familia",
