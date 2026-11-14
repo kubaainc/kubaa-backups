@@ -770,15 +770,14 @@
    "amt": 2000,
    "cat": "Sonstiges",
    "client": "Jasmin Nyhuis",
-   "costMaterial": 974.17,
-   "costSub": 1330,
-   "costTravel": 49,
+   "costMaterial": 1177.4900000000002,
+   "costTravel": 23.24,
    "date": "2026-11",
    "desc": "Beratung  - Akustikpanele und Trennwand",
    "group": "Jasmin Nyhuis",
-   "h": 2,
-   "issuedDate": "2026-10-27",
-   "nr": "Kostenvoranschlag",
+   "h": 1,
+   "issuedDate": "2026-11-15",
+   "nr": "2026-030",
    "paid": false,
    "positions": [
     {
@@ -812,51 +811,44 @@
        "type": "Material"
       },
       {
-       "amt": 0,
+       "amt": 100.75,
        "qty": 5,
-       "rate": 0,
+       "rate": 20.15,
        "title": "Gardinenstange",
        "type": "Material"
       },
       {
-       "amt": 0,
+       "amt": 67.45,
        "qty": 1,
-       "rate": 0,
-       "title": "Sonstiges",
+       "rate": 67.45,
+       "title": "Sonstiges Hornbach",
+       "type": "Material"
+      },
+      {
+       "amt": 23.24,
+       "qty": 1,
+       "rate": 23.24,
+       "title": "Stadtmobil Transport",
+       "type": "Fahrtkosten"
+      },
+      {
+       "amt": 10.65,
+       "qty": 1,
+       "rate": 10.65,
+       "title": "Stadtmobil Hinfahrt",
+       "type": "Material"
+      },
+      {
+       "amt": 24.47,
+       "qty": 1,
+       "rate": 24.47,
+       "title": "Essen Helfer",
        "type": "Material"
       }
      ],
      "label": "Akustikpanele & Trennwand",
      "qty": 1,
      "rate": 2000
-    },
-    {
-     "exps": [
-      {
-       "amt": 49,
-       "qty": 1,
-       "rate": 49,
-       "title": "Lieferung",
-       "type": "Fahrtkosten"
-      },
-      {
-       "amt": 800,
-       "qty": 16,
-       "rate": 50,
-       "title": "Montage",
-       "type": "Fremdleistung"
-      },
-      {
-       "amt": 530,
-       "qty": 2,
-       "rate": 265,
-       "title": "Helfer",
-       "type": "Fremdleistung"
-      }
-     ],
-     "label": "Lieferung",
-     "qty": 1,
-     "rate": 0
     }
    ],
    "produkt": "pro familia",
