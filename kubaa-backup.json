@@ -111,9 +111,13 @@
   },
   "-P3p403qx4CcHSOCXQ0S": {
    "address": "",
-   "email": "",
+   "email": "kontakt@einfachseinnui.de",
    "name": "Claudia Huber",
-   "status": "offen"
+   "nr": "",
+   "phone": "01590 6659995",
+   "status": "offen",
+   "tags": "",
+   "vatId": ""
   },
   "-P3p4IlhtUgjiRVTPi-l": {
    "address": "Rastatter Straße 39\n76199 Karlsruhe\nDeutschland",
@@ -125,8 +129,10 @@
  "euerEntries": {
   "-P-3bAmNcJAjeItE212G": {
    "amt": 264,
+   "cat": "Software & Abos",
    "date": "2026-01",
    "desc": "Claude Lizenz",
+   "noReceipt": true,
    "recurring": true,
    "recurringInterval": "yearly",
    "type": "expense",
@@ -154,9 +160,13 @@
    "y": 2026
   },
   "-P5DWXW30RruX-8y0xIW": {
-   "amt": 119.88,
-   "date": "2026-12",
+   "amt": 9.99,
+   "cat": "Software & Abos",
+   "date": "2026-01",
    "desc": "Speicherplatz iCloud",
+   "noReceipt": true,
+   "recurring": true,
+   "recurringInterval": "monthly",
    "type": "expense",
    "y": 2026
   },
@@ -629,7 +639,7 @@
    "y": 2026
   },
   "-OrhaKPQcj0MfrFQynHh": {
-   "amt": 2000,
+   "amt": 1000,
    "cat": "Webseite",
    "client": "Ursel Hay",
    "date": "2026-12",
@@ -643,7 +653,7 @@
     {
      "label": "Webentwicklung & -anpassung",
      "qty": 1,
-     "rate": 2000
+     "rate": 1000
     }
    ],
    "produkt": "Fuenf.de",
@@ -747,28 +757,6 @@
    "warn": "",
    "y": 2026
   },
-  "-OwSigWc9Xa5qXwp3oIL": {
-   "amt": 2000,
-   "cat": "Webseite",
-   "client": "Sven Ripka",
-   "date": "2026-09",
-   "desc": "Neue Webseite für Sven, warte auf Rückmeldung, bisherige Seite: https://www.mietstudio-gölshausen.de/",
-   "group": "Sven Ripka",
-   "h": 50,
-   "nr": "Offen",
-   "paid": false,
-   "positions": [
-    {
-     "label": "Webentwicklung & -anpassung",
-     "qty": 50,
-     "rate": 40
-    }
-   ],
-   "produkt": "Archiv",
-   "status": "vorgemerkt",
-   "warn": "",
-   "y": 2026
-  },
   "-Owc5QjxQL9VLOVOhAwF": {
    "amt": 150,
    "cat": "Webseite",
@@ -800,7 +788,6 @@
    },
    "group": "Jasmin Nyhuis",
    "h": 1,
-   "issuedDate": "2026-11-16",
    "nr": "2026-030",
    "paid": false,
    "positions": [
@@ -883,7 +870,7 @@
     }
    ],
    "produkt": "pro familia",
-   "status": "wartet_kunde",
+   "status": "planned",
    "warn": "White Noise: 75,71€ Amazon (Trade Republic). Fehlend: Winkel, Schrauben, Netzteile, Panele, Vorhänge. Papa (So) können jew. losen Beleg über 256€ stellen (steuerfrei)",
    "y": 2026
   },
@@ -936,28 +923,6 @@
    "produkt": "Wechselzeiten.de",
    "status": "paid",
    "warn": "",
-   "y": 2026
-  },
-  "-P0OaAC7_xKzpYQNOpg_": {
-   "amt": 100,
-   "cat": "Webseite",
-   "client": "Claudia Huber",
-   "date": "2026-09",
-   "desc": "Wechselzeiten",
-   "group": "Claudia",
-   "h": 1,
-   "nr": "Offen",
-   "paid": false,
-   "positions": [
-    {
-     "label": "Angebot auf Webseite",
-     "qty": 1,
-     "rate": 100
-    }
-   ],
-   "produkt": "Wechselzeiten.de",
-   "status": "vorgemerkt",
-   "warn": "Aufnahme Wechselzeiten Seite",
    "y": 2026
   },
   "-P0OaMqcDQDYeGauCWyG": {
@@ -1037,7 +1002,7 @@
    "desc": "Webseitenaufbau",
    "group": "Vadderkram GbR Kai Schlattmann",
    "h": 10,
-   "nr": "Offen",
+   "nr": "2026-032",
    "paid": false,
    "positions": [
     {
@@ -1047,7 +1012,7 @@
     }
    ],
    "produkt": "Ichbindannmalvadder",
-   "status": "wartet_kunde",
+   "status": "planned",
    "warn": "",
    "y": 2026
   },
@@ -1095,6 +1060,30 @@
    ],
    "produkt": "Artbrains.de",
    "status": "paid",
+   "warn": "",
+   "y": 2026
+  },
+  "-P6VJBa5EfIQub96PDKk": {
+   "amt": 649.9499999999999,
+   "cat": "Sonstiges",
+   "client": "Förderverein der Fußballjugend Graben-Neudorf e. V.",
+   "costTravel": 150,
+   "date": "2026-11",
+   "desc": "Videotechnik/Live-Stream U14 Wohlfeil Cup 2027 (04.01.2026)",
+   "group": "Förderverein der Fußballjugend Graben-Neudorf e. V.",
+   "h": 15,
+   "issuedDate": "2027-01-03",
+   "nr": "2027-002",
+   "paid": false,
+   "positions": [
+    {
+     "label": "Sonstige Leistungen",
+     "qty": 15,
+     "rate": 43.33
+    }
+   ],
+   "produkt": "Live-Streaming",
+   "status": "vorgemerkt",
    "warn": "",
    "y": 2026
   }
@@ -4887,21 +4876,41 @@
    "name": "Lomi Lomi Nui"
   }
  },
+ "settings": {
+  "lastBackup": "2026-11-15"
+ },
  "taxData": {
   "2023": {
+   "reserved": 0,
    "salary": 0,
-   "taxPaid": 0,
+   "taxPaid": 1,
    "taxPaidDate": "2026-08-04"
+  },
+  "2024": {
+   "reserved": 0,
+   "salary": 0,
+   "taxPaid": 1,
+   "taxPaidDate": ""
   },
   "2025": {
+   "reserved": 0,
    "salary": 0,
-   "taxPaid": 0,
-   "taxPaidDate": "2026-08-04"
+   "taxPaid": 3254.43,
+   "taxPaidDate": "2026-11-01"
   },
   "2026": {
+   "prepay": 0,
+   "reserved": 0,
    "salary": 4450,
+   "taxPaid": 2006,
+   "taxPaidDate": "2026-11-02"
+  },
+  "2027": {
+   "prepay": 501,
+   "reserved": 0,
+   "salary": 0,
    "taxPaid": 0,
-   "taxPaidDate": ""
+   "taxPaidDate": "2026-11-15"
   }
  }
 }
