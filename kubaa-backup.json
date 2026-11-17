@@ -1064,27 +1064,43 @@
    "y": 2026
   },
   "-P6VJBa5EfIQub96PDKk": {
-   "amt": 649.9499999999999,
+   "amt": 515,
    "cat": "Sonstiges",
    "client": "Förderverein der Fußballjugend Graben-Neudorf e. V.",
-   "costTravel": 150,
+   "costTravel": 14.58,
    "date": "2026-11",
-   "desc": "Videotechnik/Live-Stream U14 Wohlfeil Cup 2027 (04.01.2026)",
+   "desc": "Videotechnik/Live-Stream U14 Wohlfeil Cup 2027 (04.01.2026)\nVorbereitung, Durchführung, Nachbereitung Live-Stream",
    "group": "Förderverein der Fußballjugend Graben-Neudorf e. V.",
-   "h": 15,
+   "h": 2,
    "issuedDate": "2027-01-03",
    "nr": "2027-002",
    "paid": false,
    "positions": [
     {
-     "label": "Sonstige Leistungen",
-     "qty": 15,
-     "rate": 43.33
+     "label": "Tagessatz",
+     "qty": 1,
+     "rate": 500
+    },
+    {
+     "exps": [
+      {
+       "amt": 14.58,
+       "qty": 1,
+       "rate": 14.58,
+       "title": "Fahrtkosten 16.Nov",
+       "type": "Fahrtkosten"
+      }
+     ],
+     "label": "Fahrtkosten",
+     "qty": 1,
+     "rate": 15
     }
    ],
    "produkt": "Live-Streaming",
+   "recurring": true,
+   "recurringInterval": "monthly",
    "status": "vorgemerkt",
-   "warn": "",
+   "warn": "Bereits eingetragen: 16. Nov Vorabbesprechung",
    "y": 2026
   }
  },
