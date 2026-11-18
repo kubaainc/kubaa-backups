@@ -781,13 +781,14 @@
    "costSub": 530,
    "costTravel": 36.239999999999995,
    "date": "2026-11",
-   "desc": "Beratung  - Akustikpanele und Trennwand",
+   "desc": "Beratung  - Akustikpanele",
    "files": {
     "-P6OAi0L7ZHUYk7m8Bwb": "image.jpg",
     "-P6OAms65XvEzktMgTyq": "image.jpg"
    },
    "group": "Jasmin Nyhuis",
    "h": 1,
+   "issuedDate": "2026-11-17",
    "nr": "2026-030",
    "paid": false,
    "positions": [
@@ -864,13 +865,13 @@
        "type": "Fremdleistung"
       }
      ],
-     "label": "Akustikpanele & Trennwand",
+     "label": "Akustikpanele",
      "qty": 1,
      "rate": 2000
     }
    ],
    "produkt": "pro familia",
-   "status": "planned",
+   "status": "open",
    "warn": "White Noise: 75,71€ Amazon (Trade Republic). Fehlend: Winkel, Schrauben, Netzteile, Panele, Vorhänge. Papa (So) können jew. losen Beleg über 256€ stellen (steuerfrei)",
    "y": 2026
   },
