@@ -128,13 +128,13 @@
  },
  "euerEntries": {
   "-P-3bAmNcJAjeItE212G": {
-   "amt": 264,
+   "amt": 21.24,
    "cat": "Software & Abos",
    "date": "2026-01",
    "desc": "Claude Lizenz",
    "noReceipt": true,
    "recurring": true,
-   "recurringInterval": "yearly",
+   "recurringInterval": "monthly",
    "type": "expense",
    "y": 2026
   },
@@ -147,6 +147,7 @@
   },
   "-P5DVhIEYQh5lJNbuETf": {
    "amt": 41,
+   "cat": "Sonstiges",
    "date": "2026-03",
    "desc": "Mitgliedsbeitrag",
    "type": "expense",
