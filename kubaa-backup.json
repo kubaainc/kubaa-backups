@@ -1,4 +1,22 @@
 {
+ "capital": {
+  "-P6snBhOg9xKkn3jgAUL": {
+   "amt": -86104.88,
+   "date": "2026-01-01",
+   "desc": "Freie Verluste Perps aus dem Trading-Bereich (98.014 $ zu 0,8785 €/$), vor dem automatischen OKX-Abgleich",
+   "kind": "derivate",
+   "okxFree": true,
+   "src": "OKX"
+  },
+  "-P6snBhPflmsIUfqO3_R": {
+   "amt": -5610.95,
+   "date": "2026-01-01",
+   "desc": "Freie Verluste Spot aus dem Trading-Bereich (6.387 $ zu 0,8785 €/$), vor dem automatischen OKX-Abgleich",
+   "kind": "krypto",
+   "okxFree": true,
+   "src": "OKX"
+  }
+ },
  "clients": {
   "-Oy2v9-syodBjAt-v5kl": {
    "address": "Veilchenstraße 20\n76131 Karlsruhe\nDeutschland",
