@@ -907,7 +907,7 @@
    "amt": 2000,
    "cat": "Sonstiges",
    "client": "Jasmin Nyhuis",
-   "costMaterial": 1166.8400000000001,
+   "costMaterial": 1172.5400000000002,
    "costSub": 510,
    "costTravel": 36.239999999999995,
    "date": "2026-11",
@@ -1017,6 +1017,13 @@
        "rate": 255,
        "title": "Helfer x2",
        "type": "Fremdleistung"
+      },
+      {
+       "amt": 5.7,
+       "qty": 1,
+       "rate": 5.7,
+       "title": "Bauhaus Dübel",
+       "type": "Material"
       }
      ],
      "label": "Akustikpanele",
