@@ -1265,6 +1265,29 @@
    "status": "vorgemerkt",
    "warn": "Bereits eingetragen: 16. Nov Vorabbesprechung",
    "y": 2026
+  },
+  "-P71cuQTxS_uzhtgU9IJ": {
+   "amt": 50,
+   "cat": "Webseite",
+   "client": "Sandra-Hösl.de",
+   "date": "2026-11",
+   "desc": "Optimierung Kinderwunschseite",
+   "group": "Sandra-Hösl.de",
+   "h": 1,
+   "issuedDate": "2026-11-22",
+   "nr": "2026-033",
+   "paid": false,
+   "positions": [
+    {
+     "label": "SEO Webseite",
+     "qty": 1,
+     "rate": 50
+    }
+   ],
+   "produkt": "Sandra-Hoesl.de",
+   "status": "planned",
+   "warn": "22. Nov Telefonat und SEO anpassungen.",
+   "y": 2026
   }
  },
  "okxEquityHistory": {
