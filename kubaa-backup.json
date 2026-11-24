@@ -1166,7 +1166,8 @@
    "h": 10,
    "issuedDate": "2026-11-19",
    "nr": "2026-032",
-   "paid": false,
+   "paid": true,
+   "paidDate": "2026-11-23",
    "positions": [
     {
      "label": "Webseite",
@@ -1175,7 +1176,7 @@
     }
    ],
    "produkt": "Ichbindannmalvadder",
-   "status": "open",
+   "status": "paid",
    "warn": "",
    "y": 2026
   },
