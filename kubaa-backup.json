@@ -944,7 +944,8 @@
    "h": 1,
    "issuedDate": "2026-11-17",
    "nr": "2026-030",
-   "paid": false,
+   "paid": true,
+   "paidDate": "2026-11-25",
    "positions": [
     {
      "exps": [
@@ -1032,7 +1033,7 @@
     }
    ],
    "produkt": "pro familia",
-   "status": "open",
+   "status": "paid",
    "warn": "White Noise: 75,71€ Amazon (Trade Republic). Fehlend: Winkel, Schrauben, Netzteile, Panele, Vorhänge. Papa (So) können jew. losen Beleg über 256€ stellen (steuerfrei)",
    "y": 2026
   },
